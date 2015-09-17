@@ -1,0 +1,79 @@
+-- Table: damageevent
+
+-- DROP TABLE damageevent;
+
+CREATE TABLE damageevent
+(
+  id integer NOT NULL DEFAULT nextval('"damageEvent_id_seq"'::regclass),
+  line character varying,
+  activeplayer character varying,
+  passiveplayer character varying,
+  eventdescription character varying,
+  weapon character varying,
+  date timestamp without time zone,
+  damage integer,
+  logfile character varying,
+  roundtime time without time zone,
+  numerictime numeric,
+  CONSTRAINT "damageEvent_pkey" PRIMARY KEY (id)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE damageevent
+  OWNER TO postgres;
+
+  
+  -- Table: killevent
+
+-- DROP TABLE killevent;
+
+CREATE TABLE killevent
+(
+  id integer NOT NULL DEFAULT nextval('"killEvent_id_seq"'::regclass),
+  line character varying,
+  activeplayer character varying,
+  passiveplayer character varying,
+  eventdescription character varying,
+  weapon character varying,
+  date timestamp without time zone,
+  x_deathposition numeric,
+  y_deathposition numeric,
+  z_deathposition numeric,
+  point_death geometry,
+  x_attackposition numeric,
+  y_attackposition numeric,
+  z_attackposition numeric,
+  point_attack geometry,
+  logfile character varying,
+  roundtime time without time zone,
+  numerictime numeric,
+  CONSTRAINT "killEvent_pkey" PRIMARY KEY (id)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE killevent
+  OWNER TO postgres;
+  
+  -- Table: matchlog
+
+-- DROP TABLE matchlog;
+
+CREATE TABLE matchlog
+(
+  id integer NOT NULL,
+  filename character varying,
+  map character varying,
+  mode character varying,
+  CONSTRAINT log_pkey PRIMARY KEY (id)
+)
+WITH (
+  OIDS=FALSE
+);
+ALTER TABLE matchlog
+  OWNER TO postgres;
+  
+  
+  
+  

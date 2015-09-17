@@ -1,0 +1,1059 @@
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "TF2Center Lobby #522107 | 268061824"
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "Leader: nolifenicholas99 (76561198050403444)"
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "Map: cp_process_final"
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "GameType: 6v6"
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "Location: North America"
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "Advanced Lobby: false"
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "Restriction: None"
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "Mumble required: true"
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "Launch date: Thu Sep 17 05:02:28 CEST 2015"
+L 09/16/2015 - 22:02:29: "Console<0><Console><Console>" say "Server: craytf.game.nfoservers.com:27015 - 5107 | 2959078"
+L 09/16/2015 - 22:02:30: "tryhardin ass niggas<2><[U:1:90137716]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:02:30: "tryhardin ass niggas<2><[U:1:90137716]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:32: "fil VcN.<3><[U:1:169066091]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:01:36: "bl<555><[U:1:39816373]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "1062") (ubercharge "1")
+L 09/16/2015 - 22:01:36: "bl<555><[U:1:39816373]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-2439 -515 256") (victim_position "-1081 139 240")
+L 09/16/2015 - 22:02:33: "fil VcN.<3><[U:1:169066091]><>" STEAM USERID validated
+L 09/16/2015 - 22:01:36: "nx-<563><[U:1:290755]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-2206 -66 256") (victim_position "-2198 111 256")
+L 09/16/2015 - 22:01:37: "nx-<563><[U:1:290755]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "scattergun" (customkill "feign_death") (attacker_position "-2223 58 256") (victim_position "-2239 262 256")
+L 09/16/2015 - 22:02:34: "Bobanook<4><[U:1:76371662]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:02:35: "Bobanook<4><[U:1:76371662]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:35: "tryhardin ass niggas<2><[U:1:90137716]><>" entered the game
+L 09/16/2015 - 22:02:35: "The Apex Predator<5><[U:1:90934638]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:02:35: "The Apex Predator<5><[U:1:90934638]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:35: "My gamesense is tingling<6><[U:1:106712702]><>" connected, address "0.0.0.0:17860"
+L 09/16/2015 - 22:02:36: "My gamesense is tingling<6><[U:1:106712702]><>" STEAM USERID validated
+L 09/16/2015 - 22:01:40: "do the nasty<571><[U:1:84584561]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1624 -543 150")
+L 09/16/2015 - 22:01:40: "g.<568><[U:1:21138944]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "battleaxe" (attacker_position "-1667 -605 141") (victim_position "-1666 -664 129")
+L 09/16/2015 - 22:01:40: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-1896 317 256") (attacker_position "-1667 -605 141") (victim_position "-1666 -664 129")
+L 09/16/2015 - 22:01:43: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-868 -476 380")
+L 09/16/2015 - 22:02:40: "The Apex Predator<5><[U:1:90934638]><>" entered the game
+L 09/16/2015 - 22:02:40: "fil VcN.<3><[U:1:169066091]><>" entered the game
+L 09/16/2015 - 22:02:41: "My gamesense is tingling<6><[U:1:106712702]><>" entered the game
+L 09/16/2015 - 22:02:42: "Nato<7><[U:1:119239842]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:02:42: "Nato<7><[U:1:119239842]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:42: "D1 BOUND<8><[U:1:118621338]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:01:46: "Butcher<557><[U:1:156280828]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "pistol_scout" (attacker_position "-2513 1457 128") (victim_position "-2321 1279 126")
+L 09/16/2015 - 22:02:43: "D1 BOUND<8><[U:1:118621338]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:43: "Bobanook<4><[U:1:76371662]><>" entered the game
+L 09/16/2015 - 22:02:46: "contrast<9><[U:1:91622419]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:01:49: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "shotgun_primary" (customkill "feign_death") (attacker_position "-1618 -691 127") (victim_position "-1726 -331 211")
+L 09/16/2015 - 22:02:46: "contrast<9><[U:1:91622419]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:46: "D1 BOUND<8><[U:1:118621338]><>" entered the game
+L 09/16/2015 - 22:01:52: "Butcher<557><[U:1:156280828]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "scattergun" (attacker_position "-1719 315 215") (victim_position "-2234 433 256")
+L 09/16/2015 - 22:01:52: "g.<568><[U:1:21138944]><Red>" triggered "kill assist" against "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" (assister_position "-2108 421 256") (attacker_position "-1719 315 215") (victim_position "-2234 433 256")
+L 09/16/2015 - 22:02:50: "contrast<9><[U:1:91622419]><>" entered the game
+L 09/16/2015 - 22:02:51: "The Apex Predator<5><[U:1:90934638]><Unassigned>" joined team "Red"
+L 09/16/2015 - 22:01:55: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1065 -442 351")
+L 09/16/2015 - 22:02:51: "The Apex Predator<5><[U:1:90934638]><Red>" changed role to "demoman"
+L 09/16/2015 - 22:01:56: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1151 -159 253")
+L 09/16/2015 - 22:01:56: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1151 -159 253")
+L 09/16/2015 - 22:01:57: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1936 847 232")
+L 09/16/2015 - 22:02:00: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "Butcher<557><[U:1:156280828]><Red>" with "shotgun_primary" (attacker_position "-1331 399 244") (victim_position "-1702 708 116")
+L 09/16/2015 - 22:02:58: "My gamesense is tingling<6><[U:1:106712702]><Unassigned>" joined team "Red"
+L 09/16/2015 - 22:02:59: "My gamesense is tingling<6><[U:1:106712702]><Red>" changed role to "scout"
+L 09/16/2015 - 22:02:03: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "4") (player1 "「Tsukiko」<561><[U:1:111754095]><Blue>") (position1 "-1418 -63 229") (player2 "Bruh...#1<567><[U:1:211486742]><Blue>") (position2 "-1569 -21 231") (player3 "brulée<569><[U:1:153985067]><Blue>") (position3 "-1715 50 227") (player4 "do the nasty<571><[U:1:84584561]><Blue>") (position4 "-1706 -212 264")
+L 09/16/2015 - 22:02:03: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2343 1471 127")
+L 09/16/2015 - 22:02:03: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "player_extinguished" against "Bruh...#1<567><[U:1:211486742]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-1574 -96 231") (victim_position "-1771 -84 284")
+L 09/16/2015 - 22:03:00: "contrast<9><[U:1:91622419]><Unassigned>" joined team "Blue"
+L 09/16/2015 - 22:02:05: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-1200 874 160")
+L 09/16/2015 - 22:02:05: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1200 874 160")
+L 09/16/2015 - 22:02:05: "do the nasty<571><[U:1:84584561]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "tf_projectile_pipe" (attacker_position "-1804 -62 236") (victim_position "-2373 607 256")
+L 09/16/2015 - 22:02:06: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1345 1106 160")
+L 09/16/2015 - 22:03:03: "contrast<9><[U:1:91622419]><Blue>" changed role to "medic"
+L 09/16/2015 - 22:02:07: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "player_extinguished" against "brulée<569><[U:1:153985067]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-1970 306 256") (victim_position "-2014 448 256")
+L 09/16/2015 - 22:02:08: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "obj_minisentry") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-2444 926 128")
+L 09/16/2015 - 22:03:05: "Bobanook<4><[U:1:76371662]><Unassigned>" joined team "Blue"
+L 09/16/2015 - 22:03:06: "tryhardin ass niggas<10><[U:1:90137716]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:02:10: "「Tsukiko」<561><[U:1:111754095]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "degreaser" (customkill "feign_death") (attacker_position "-2124 270 256") (victim_position "-2247 421 256")
+L 09/16/2015 - 22:03:06: "Bobanook<4><[U:1:76371662]><Blue>" changed role to "soldier"
+L 09/16/2015 - 22:03:06: "tryhardin ass niggas<10><[U:1:90137716]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:11: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1420 664 157")
+L 09/16/2015 - 22:02:12: "do the nasty<571><[U:1:84584561]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "battleaxe" (attacker_position "-2506 900 128") (victim_position "-2397 903 130")
+L 09/16/2015 - 22:02:12: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-1513 137 225") (attacker_position "-2506 900 128") (victim_position "-2397 903 130")
+L 09/16/2015 - 22:02:13: "g.<568><[U:1:21138944]><Red>" killed "Vipa ringme<556><[U:1:144403197]><Blue>" with "loose_cannon_impact" (attacker_position "-1078 876 157") (victim_position "-1299 166 236")
+L 09/16/2015 - 22:02:13: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "Vipa ringme<556><[U:1:144403197]><Blue>" (assister_position "-996 1272 62") (attacker_position "-1078 876 157") (victim_position "-1299 166 236")
+L 09/16/2015 - 22:02:15: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "shotgun_primary" (attacker_position "-2371 657 253") (victim_position "-2306 526 256")
+L 09/16/2015 - 22:02:17: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" say "wat"
+L 09/16/2015 - 22:03:13: "D1 BOUND<8><[U:1:118621338]><Unassigned>" joined team "Blue"
+L 09/16/2015 - 22:03:14: "tryhardin ass niggas<10><[U:1:90137716]><>" entered the game
+L 09/16/2015 - 22:03:14: "D1 BOUND<8><[U:1:118621338]><Blue>" changed role to "scout"
+L 09/16/2015 - 22:02:18: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1192 956 160")
+L 09/16/2015 - 22:02:18: "jmomo<575><[U:1:14838639]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (assist "1") (assister_position "-927 850 140") (attacker_position "-1192 956 160")
+L 09/16/2015 - 22:02:18: "brulée<569><[U:1:153985067]><Blue>" killed "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" with "tf_projectile_rocket" (attacker_position "-2397 711 213") (victim_position "-2525 809 128")
+L 09/16/2015 - 22:02:18: "nx-<563><[U:1:290755]><Blue>" triggered "kill assist" against "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" (assister_position "-2355 595 256") (attacker_position "-2397 711 213") (victim_position "-2525 809 128")
+L 09/16/2015 - 22:02:20: "jmomo<575><[U:1:14838639]><Red>" triggered "player_extinguished" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "tf_weapon_medigun" (attacker_position "-990 1135 108") (victim_position "-1466 944 160")
+L 09/16/2015 - 22:02:20: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-731 777 391") (victim_position "-1765 -348 206")
+L 09/16/2015 - 22:03:17: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:03:17: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:28: "brulée<569><[U:1:153985067]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-2344 710 240")
+L 09/16/2015 - 22:03:26: "tryhardin ass niggas<10><[U:1:90137716]><Unassigned>" changed name to "s."
+L 09/16/2015 - 22:03:26: "s.<10><[U:1:90137716]><Unassigned>" joined team "Red"
+L 09/16/2015 - 22:02:30: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "brulée<569><[U:1:153985067]><Blue>" with "minigun" (attacker_position "-2244 1086 115") (victim_position "-2521 1063 169")
+L 09/16/2015 - 22:02:30: "Butcher<557><[U:1:156280828]><Red>" triggered "kill assist" against "brulée<569><[U:1:153985067]><Blue>" (assister_position "-2659 850 236") (attacker_position "-2244 1086 115") (victim_position "-2521 1063 169")
+L 09/16/2015 - 22:03:27: "s.<10><[U:1:90137716]><Red>" changed role to "pyro"
+L 09/16/2015 - 22:03:27: "trucks<12><[U:1:83656662]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:03:28: "trucks<12><[U:1:83656662]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:32: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "player_extinguished" against "nx-<563><[U:1:290755]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-1563 -551 262") (victim_position "-1515 -566 145")
+L 09/16/2015 - 22:02:32: "g.<568><[U:1:21138944]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "loose_cannon" (attacker_position "-1534 532 152") (victim_position "-1677 -650 132")
+L 09/16/2015 - 22:02:32: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "nx-<563><[U:1:290755]><Blue>" (assister_position "-1543 531 151") (attacker_position "-1534 532 152") (victim_position "-1677 -650 132")
+L 09/16/2015 - 22:03:29: "s.<10><[U:1:90137716]><Red>" joined team "Blue"
+L 09/16/2015 - 22:03:29: "s.<10><[U:1:90137716]><Blue>" committed suicide with "world" (attacker_position "4420 1216 576")
+L 09/16/2015 - 22:03:30: "s.<10><[U:1:90137716]><Blue>" changed role to "demoman"
+L 09/16/2015 - 22:03:33: "The Apex Predator<5><[U:1:90934638]><Red>" killed "Bobanook<4><[U:1:76371662]><Blue>" with "tf_projectile_pipe" (attacker_position "-714 -835 544") (victim_position "-830 -1209 624")
+L 09/16/2015 - 22:03:33: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "kill assist" against "Bobanook<4><[U:1:76371662]><Blue>" (assister_position "-632 -1348 664") (attacker_position "-714 -835 544") (victim_position "-830 -1209 624")
+L 09/16/2015 - 22:02:39: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-383 -1181 284")
+L 09/16/2015 - 22:02:42: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-1107 228 240") (victim_position "-2487 -455 256")
+L 09/16/2015 - 22:02:42: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "kill assist" against "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" (assister_position "-2210 -437 256") (attacker_position "-1107 228 240") (victim_position "-2487 -455 256")
+L 09/16/2015 - 22:03:40: "fil VcN.<3><[U:1:169066091]><Unassigned>" joined team "Blue"
+L 09/16/2015 - 22:03:41: "fil VcN.<3><[U:1:169066091]><Blue>" changed role to "scout"
+L 09/16/2015 - 22:02:45: "do the nasty<571><[U:1:84584561]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "tf_projectile_pipe" (attacker_position "-2350 -1217 128") (victim_position "-2626 -970 128")
+L 09/16/2015 - 22:02:45: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-710 -718 388")
+L 09/16/2015 - 22:03:42: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><>" entered the game
+L 09/16/2015 - 22:02:48: "jmomo<575><[U:1:14838639]><Red>" triggered "chargedeployed"
+L 09/16/2015 - 22:02:48: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-862 -512 508")
+L 09/16/2015 - 22:02:48: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "ngc.Traxx'<565><[U:1:87192239]><Red>") (position1 "-1363 9 229") (player2 "Douchebag #learning sfm<572><[U:1:184493993]><Red>") (position2 "-1449 -25 276")
+L 09/16/2015 - 22:03:45: "My gamesense is tingling<6><[U:1:106712702]><Red>" killed "s.<10><[U:1:90137716]><Blue>" with "scattergun" (attacker_position "-699 -983 703") (victim_position "-724 -1517 644")
+L 09/16/2015 - 22:03:46: "G0ld Dust  :><13><[U:1:90650106]><>" connected, address "0.0.0.0:14644"
+L 09/16/2015 - 22:03:46: "G0ld Dust  :><13><[U:1:90650106]><>" STEAM USERID validated
+L 09/16/2015 - 22:02:50: "g.<568><[U:1:21138944]><Red>" killed "bl<555><[U:1:39816373]><Blue>" with "loose_cannon_impact" (attacker_position "-922 -1057 123") (victim_position "-1208 -1311 53")
+L 09/16/2015 - 22:02:50: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "bl<555><[U:1:39816373]><Blue>" (assister_position "-1266 -749 169") (attacker_position "-922 -1057 123") (victim_position "-1208 -1311 53")
+L 09/16/2015 - 22:02:51: "Butcher<557><[U:1:156280828]><Red>" triggered "medic_death" against "Bruh...#1<567><[U:1:211486742]><Blue>" (healing "1074") (ubercharge "0")
+L 09/16/2015 - 22:02:51: "Butcher<557><[U:1:156280828]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "scattergun" (attacker_position "-1842 -1479 4") (victim_position "-1635 -1444 16")
+L 09/16/2015 - 22:03:50: "s.<10><[U:1:90137716]><Blue>" say "u think "
+L 09/16/2015 - 22:02:54: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "knife" (customkill "backstab") (attacker_position "-1415 -1956 0") (victim_position "-1472 -1908 0")
+L 09/16/2015 - 22:03:52: "G0ld Dust  :><13><[U:1:90650106]><>" disconnected (reason "Connection closing")
+L 09/16/2015 - 22:03:52: "G0ld Dust  :><14><[U:1:90650106]><>" connected, address "0.0.0.0:14644"
+L 09/16/2015 - 22:03:52: "G0ld Dust  :><14><[U:1:90650106]><>" STEAM USERID validated
+L 09/16/2015 - 22:03:52: "My gamesense is tingling<6><[U:1:106712702]><Red>" killed "D1 BOUND<8><[U:1:118621338]><Blue>" with "scattergun" (attacker_position "-981 -1624 602") (victim_position "-1145 -1807 603")
+L 09/16/2015 - 22:03:52: "The Apex Predator<5><[U:1:90934638]><Red>" triggered "kill assist" against "D1 BOUND<8><[U:1:118621338]><Blue>" (assister_position "-642 -1432 642") (attacker_position "-981 -1624 602") (victim_position "-1145 -1807 603")
+L 09/16/2015 - 22:02:58: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2284 1192 112")
+L 09/16/2015 - 22:03:55: "Bobanook<4><[U:1:76371662]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "tf_projectile_rocket" (attacker_position "-961 -2005 514") (victim_position "-789 -1719 576")
+L 09/16/2015 - 22:02:59: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "tf_projectile_rocket" (attacker_position "-974 1292 52") (victim_position "-1400 -393 278")
+L 09/16/2015 - 22:02:59: "g.<568><[U:1:21138944]><Red>" triggered "kill assist" against "「Tsukiko」<561><[U:1:111754095]><Blue>" (assister_position "-1035 -800 154") (attacker_position "-974 1292 52") (victim_position "-1400 -393 278")
+L 09/16/2015 - 22:03:00: "nx-<563><[U:1:290755]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "scattergun" (customkill "feign_death") (attacker_position "-301 -1341 239") (victim_position "-787 -1499 86")
+L 09/16/2015 - 22:03:02: "nx-<563><[U:1:290755]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "scattergun" (attacker_position "-403 -1620 130") (victim_position "-548 -1794 128")
+L 09/16/2015 - 22:03:02: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-361 -1522 149") (attacker_position "-403 -1620 130") (victim_position "-548 -1794 128")
+L 09/16/2015 - 22:03:03: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "minigun" (attacker_position "-1229 -608 206") (victim_position "-1430 -745 149")
+L 09/16/2015 - 22:03:03: "Butcher<557><[U:1:156280828]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-1443 -670 151") (attacker_position "-1229 -608 206") (victim_position "-1430 -745 149")
+L 09/16/2015 - 22:04:00: "s.<10><[U:1:90137716]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "-948 -1753 641")
+L 09/16/2015 - 22:03:05: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-2013 251 256")
+L 09/16/2015 - 22:03:05: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-2013 251 256")
+L 09/16/2015 - 22:03:06: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1992 182 256")
+L 09/16/2015 - 22:03:07: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-745 -601 377")
+L 09/16/2015 - 22:03:08: "g.<568><[U:1:21138944]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "loose_cannon_impact") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1507 -106 230")
+L 09/16/2015 - 22:03:11: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "Vipa ringme<556><[U:1:144403197]><Blue>" with "sniperrifle" (attacker_position "-1728 22 228") (victim_position "-731 -810 392")
+L 09/17/2015 - 05:06:34: Your server needs to be restarted in order to receive the latest update.
+L 09/16/2015 - 22:03:15: "Butcher<557><[U:1:156280828]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "scattergun" (attacker_position "-2109 -390 256") (victim_position "-2533 -376 256")
+L 09/16/2015 - 22:03:15: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "kill assist" against "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" (assister_position "-1744 -83 275") (attacker_position "-2109 -390 256") (victim_position "-2533 -376 256")
+L 09/16/2015 - 22:04:14: "trucks<12><[U:1:83656662]><>" entered the game
+L 09/16/2015 - 22:04:14: "Smesi<15><[U:1:98351880]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:04:15: "Smesi<15><[U:1:98351880]><>" disconnected (reason "Connection closing")
+L 09/16/2015 - 22:04:15: "Smesi<16><[U:1:98351880]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:04:15: "Smesi<16><[U:1:98351880]><>" STEAM USERID validated
+L 09/16/2015 - 22:04:15: "Smesi<16><[U:1:98351880]><>" STEAM USERID validated
+L 09/16/2015 - 22:04:16: "Smesi<17><[U:1:98351880]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:04:16: "Smesi<17><[U:1:98351880]><>" STEAM USERID validated
+L 09/16/2015 - 22:03:22: "nx-<563><[U:1:290755]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "scattergun" (attacker_position "-2244 -519 256") (victim_position "-2369 -426 271")
+L 09/16/2015 - 22:03:22: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-2663 -1138 136") (attacker_position "-2244 -519 256") (victim_position "-2369 -426 271")
+L 09/16/2015 - 22:03:23: "Butcher<557><[U:1:156280828]><Red>" killed "bl<555><[U:1:39816373]><Blue>" with "scattergun" (attacker_position "-1195 -1063 406") (victim_position "-1026 -1050 414")
+L 09/16/2015 - 22:03:24: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-1759 -958 232")
+L 09/16/2015 - 22:03:24: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1759 -958 232")
+L 09/16/2015 - 22:03:25: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1718 -1238 320")
+L 09/16/2015 - 22:03:26: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "sniperrifle" (attacker_position "-1615 3 231") (victim_position "-741 -738 390")
+L 09/16/2015 - 22:03:26: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-1504 -199 236") (attacker_position "-1615 3 231") (victim_position "-741 -738 390")
+L 09/16/2015 - 22:03:27: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "degreaser") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1736 -1151 320")
+L 09/16/2015 - 22:03:27: "nx-<563><[U:1:290755]><Blue>" killed "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" with "scattergun" (attacker_position "-2263 -1000 130") (victim_position "-2062 -1273 18")
+L 09/16/2015 - 22:03:27: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "kill assist" against "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" (assister_position "-2412 -1196 123") (attacker_position "-2263 -1000 130") (victim_position "-2062 -1273 18")
+L 09/16/2015 - 22:04:25: "trucks<12><[U:1:83656662]><Unassigned>" joined team "Red"
+L 09/16/2015 - 22:03:29: "brulée<569><[U:1:153985067]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "tf_projectile_rocket" (attacker_position "-2380 -633 305") (victim_position "-2112 -368 256")
+L 09/16/2015 - 22:03:29: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" (assister_position "-2393 -628 256") (attacker_position "-2380 -633 305") (victim_position "-2112 -368 256")
+L 09/16/2015 - 22:04:25: "trucks<12><[U:1:83656662]><Red>" changed role to "scout"
+L 09/16/2015 - 22:04:27: "Bobanook<4><[U:1:76371662]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "tf_projectile_rocket" (attacker_position "1231 2535 576") (victim_position "1286 2200 552")
+L 09/16/2015 - 22:03:32: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "tf_projectile_rocket" (attacker_position "-604 -1072 379") (victim_position "-298 -1148 298")
+L 09/16/2015 - 22:03:32: "Butcher<557><[U:1:156280828]><Red>" triggered "kill assist" against "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" (assister_position "-486 -1091 342") (attacker_position "-604 -1072 379") (victim_position "-298 -1148 298")
+L 09/16/2015 - 22:04:29: "The Apex Predator<5><[U:1:90934638]><Red>" killed "Bobanook<4><[U:1:76371662]><Blue>" with "tf_projectile_pipe" (attacker_position "1466 2365 576") (victim_position "1470 2464 624")
+L 09/16/2015 - 22:04:30: "fil VcN.<3><[U:1:169066091]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "scattergun" (attacker_position "1473 2554 638") (victim_position "1432 2286 576")
+L 09/16/2015 - 22:03:34: "nx-<563><[U:1:290755]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-1212 -356 247") (victim_position "-1274 265 234")
+L 09/16/2015 - 22:03:34: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "ngc.Traxx'<565><[U:1:87192239]><Red>" (assister_position "-2340 -449 256") (attacker_position "-1212 -356 247") (victim_position "-1274 265 234")
+L 09/16/2015 - 22:03:34: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "tf_projectile_rocket") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-647 -1101 383")
+L 09/16/2015 - 22:03:34: "g.<568><[U:1:21138944]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "loose_cannon" (attacker_position "-2214 143 256") (victim_position "-2372 -517 256")
+L 09/16/2015 - 22:03:34: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "Rg Groove<562><[U:1:74497530]><Blue>" (assister_position "-1975 319 256") (attacker_position "-2214 143 256") (victim_position "-2372 -517 256")
+L 09/16/2015 - 22:03:37: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" killed "brulée<569><[U:1:153985067]><Blue>" with "knife" (customkill "backstab") (attacker_position "-2190 -259 256") (victim_position "-2199 -220 256")
+L 09/16/2015 - 22:04:38: "trucks<12><[U:1:83656662]><Red>" killed "fil VcN.<3><[U:1:169066091]><Blue>" with "scattergun" (attacker_position "1599 2597 664") (victim_position "1743 2630 664")
+L 09/16/2015 - 22:03:42: "nx-<563><[U:1:290755]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "scattergun" (customkill "feign_death") (attacker_position "-1867 -252 239") (victim_position "-2023 -71 336")
+L 09/16/2015 - 22:03:44: "Butcher<557><[U:1:156280828]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1712 -213 236")
+L 09/16/2015 - 22:03:46: "Butcher<557><[U:1:156280828]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "scattergun" (attacker_position "-1725 -174 236") (victim_position "-1713 -119 226")
+L 09/16/2015 - 22:04:42: "s.<10><[U:1:90137716]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "paintrain" (attacker_position "1850 2611 664") (victim_position "1904 2683 664")
+L 09/16/2015 - 22:03:47: "jmomo<575><[U:1:14838639]><Red>" triggered "chargedeployed"
+L 09/16/2015 - 22:03:49: "「Tsukiko」<561><[U:1:111754095]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "degreaser" (customkill "feign_death") (attacker_position "-2639 -1180 131") (victim_position "-2616 -1409 174")
+L 09/16/2015 - 22:03:49: "bl<555><[U:1:39816373]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-2589 -1094 128") (attacker_position "-2639 -1180 131") (victim_position "-2616 -1409 174")
+L 09/16/2015 - 22:03:49: "g.<568><[U:1:21138944]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1783 67 236")
+L 09/16/2015 - 22:04:46: "s.<10><[U:1:90137716]><Blue>" committed suicide with "tf_projectile_pipe_remote" (attacker_position "771 1635 594")
+L 09/16/2015 - 22:03:51: "jmomo<575><[U:1:14838639]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1579 159 231")
+L 09/16/2015 - 22:03:51: "g.<568><[U:1:21138944]><Red>" triggered "medic_death" against "Bruh...#1<567><[U:1:211486742]><Blue>" (healing "767") (ubercharge "0")
+L 09/16/2015 - 22:03:51: "g.<568><[U:1:21138944]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1872 -125 247")
+L 09/16/2015 - 22:03:51: "g.<568><[U:1:21138944]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "battleaxe" (attacker_position "-1872 -125 247") (victim_position "-1795 -142 236")
+L 09/16/2015 - 22:03:51: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "Bruh...#1<567><[U:1:211486742]><Blue>" (assister_position "-1554 137 225") (attacker_position "-1872 -125 247") (victim_position "-1795 -142 236")
+L 09/16/2015 - 22:03:54: "g.<568><[U:1:21138944]><Red>" killed "bl<555><[U:1:39816373]><Blue>" with "loose_cannon_impact" (attacker_position "-2046 -335 256") (victim_position "-2512 -985 128")
+L 09/16/2015 - 22:03:54: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "bl<555><[U:1:39816373]><Blue>" (assister_position "-2149 -271 256") (attacker_position "-2046 -335 256") (victim_position "-2512 -985 128")
+L 09/16/2015 - 22:04:53: "The Apex Predator<5><[U:1:90934638]><Red>" triggered "medic_death" against "contrast<9><[U:1:91622419]><Blue>" (healing "306") (ubercharge "0")
+L 09/16/2015 - 22:04:53: "The Apex Predator<5><[U:1:90934638]><Red>" killed "contrast<9><[U:1:91622419]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "813 1617 621") (victim_position "736 1353 624")
+L 09/16/2015 - 22:04:54: "G0ld Dust  :><14><[U:1:90650106]><>" entered the game
+L 09/16/2015 - 22:04:00: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "tf_projectile_rocket" (attacker_position "-2371 -585 256") (victim_position "-2512 -882 128")
+L 09/16/2015 - 22:04:00: "g.<568><[U:1:21138944]><Red>" triggered "kill assist" against "「Tsukiko」<561><[U:1:111754095]><Blue>" (assister_position "-1906 64 256") (attacker_position "-2371 -585 256") (victim_position "-2512 -882 128")
+L 09/16/2015 - 22:04:00: "Butcher<557><[U:1:156280828]><Red>" say "!rep our scout"
+L 09/16/2015 - 22:04:00: "a pyro main<570><[U:1:132632907]><Red>" triggered "player_extinguished" against "jmomo<575><[U:1:14838639]><Red>" with "tf_weapon_flamethrower" (attacker_position "-1919 174 256") (victim_position "-2128 220 256")
+L 09/16/2015 - 22:04:00: "a pyro main<570><[U:1:132632907]><Red>" triggered "player_extinguished" against "g.<568><[U:1:21138944]><Red>" with "tf_weapon_flamethrower" (attacker_position "-1919 174 256") (victim_position "-1939 120 256")
+L 09/16/2015 - 22:04:01: "Console<0><Console><Console>" say "[TF2Center]: Reporting RED SCOUT: Butcher"
+L 09/16/2015 - 22:04:58: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "scattergun" (attacker_position "739 2044 473") (victim_position "1122 2051 447")
+L 09/16/2015 - 22:04:01: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-323 -1204 272")
+L 09/16/2015 - 22:05:00: "Smesi<17><[U:1:98351880]><>" entered the game
+L 09/16/2015 - 22:05:02: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Unassigned>" joined team "Red"
+L 09/16/2015 - 22:05:03: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" changed role to "medic"
+L 09/16/2015 - 22:05:04: "G0ld Dust  :><14><[U:1:90650106]><Unassigned>" joined team "Red"
+L 09/16/2015 - 22:04:08: "Rg Groove<562><[U:1:74497530]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "minigun" (customkill "feign_death") (attacker_position "-1853 -844 72") (victim_position "-1871 -395 212")
+L 09/16/2015 - 22:04:08: "brulée<569><[U:1:153985067]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-1371 -723 164") (attacker_position "-1853 -844 72") (victim_position "-1871 -395 212")
+L 09/16/2015 - 22:04:09: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "minigun" (attacker_position "-1705 -254 224") (victim_position "-1897 -912 65")
+L 09/16/2015 - 22:04:09: "ngc.Traxx'<565><[U:1:87192239]><Red>" triggered "kill assist" against "Rg Groove<562><[U:1:74497530]><Blue>" (assister_position "-1598 41 231") (attacker_position "-1705 -254 224") (victim_position "-1897 -912 65")
+L 09/16/2015 - 22:05:06: "G0ld Dust  :><14><[U:1:90650106]><Red>" changed role to "soldier"
+L 09/16/2015 - 22:04:10: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1797 466 181")
+L 09/16/2015 - 22:04:10: "nx-<563><[U:1:290755]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "scattergun" (attacker_position "-2622 -1121 221") (victim_position "-2541 -1608 132")
+L 09/16/2015 - 22:04:11: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "brulée<569><[U:1:153985067]><Blue>" with "tf_projectile_rocket" (attacker_position "-1707 -1073 307") (victim_position "-1604 -906 205")
+L 09/16/2015 - 22:04:11: "g.<568><[U:1:21138944]><Red>" triggered "kill assist" against "brulée<569><[U:1:153985067]><Blue>" (assister_position "-1150 94 236") (attacker_position "-1707 -1073 307") (victim_position "-1604 -906 205")
+L 09/16/2015 - 22:05:08: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "scattergun" (attacker_position "1641 1099 480") (victim_position "1450 1243 480")
+L 09/16/2015 - 22:04:13: "g.<568><[U:1:21138944]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1598 156 228")
+L 09/16/2015 - 22:04:13: "g.<568><[U:1:21138944]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "battleaxe" (attacker_position "-1598 156 228") (victim_position "-1627 179 236")
+L 09/16/2015 - 22:04:13: "Console<0><Console><Console>" say "[TF2Center]: Substitute is on their way for Lobby#522105 RED SCOUT: P2501"
+L 09/16/2015 - 22:04:14: "g.<568><[U:1:21138944]><Red>" say "lmao"
+L 09/16/2015 - 22:04:14: "Butcher<557><[U:1:156280828]><Red>" disconnected (reason "Butcher timed out")
+L 09/16/2015 - 22:04:14: "Butcher<557><[U:1:156280828]><Unassigned>" committed suicide with "world" (attacker_position "-2093 359 346")
+L 09/16/2015 - 22:04:14: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "player_extinguished" against "nx-<563><[U:1:290755]><Blue>" with "tf_weapon_medigun" (attacker_position "-2390 -1352 128") (victim_position "-2575 -964 128")
+L 09/16/2015 - 22:04:16: "nx-<563><[U:1:290755]><Blue>" killed "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" with "scattergun" (attacker_position "-2201 -499 256") (victim_position "-2282 -339 256")
+L 09/16/2015 - 22:04:16: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "kill assist" against "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" (assister_position "-2594 -1045 128") (attacker_position "-2201 -499 256") (victim_position "-2282 -339 256")
+L 09/16/2015 - 22:04:17: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-2024 -236 256") (victim_position "-2207 -485 256")
+L 09/16/2015 - 22:04:17: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "kill assist" against "nx-<563><[U:1:290755]><Blue>" (assister_position "-2227 -299 270") (attacker_position "-2024 -236 256") (victim_position "-2207 -485 256")
+L 09/16/2015 - 22:05:14: "Smesi<17><[U:1:98351880]><Unassigned>" joined team "Red"
+L 09/16/2015 - 22:05:15: "Smesi<17><[U:1:98351880]><Red>" changed role to "soldier"
+L 09/16/2015 - 22:05:18: "Nato<7><[U:1:119239842]><>" entered the game
+L 09/16/2015 - 22:04:29: "do the nasty<571><[U:1:84584561]><Blue>" say "If I had got the med there..."
+L 09/16/2015 - 22:05:26: "Nato<7><[U:1:119239842]><Unassigned>" joined team "Blue"
+L 09/16/2015 - 22:05:27: "Nato<7><[U:1:119239842]><Blue>" changed role to "soldier"
+L 09/16/2015 - 22:04:31: "g.<568><[U:1:21138944]><Red>" triggered "medic_death" against "Bruh...#1<567><[U:1:211486742]><Blue>" (healing "237") (ubercharge "0")
+L 09/16/2015 - 22:04:31: "g.<568><[U:1:21138944]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "loose_cannon" (attacker_position "-2196 -32 256") (victim_position "-2573 -1163 183")
+L 09/16/2015 - 22:05:28: "Bobanook<4><[U:1:76371662]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "tf_projectile_rocket" (attacker_position "1315 1192 704") (victim_position "1507 757 539")
+L 09/16/2015 - 22:04:32: "「Tsukiko」<561><[U:1:111754095]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "degreaser" (customkill "feign_death") (attacker_position "-2467 -1329 128") (victim_position "-2253 -1179 102")
+L 09/16/2015 - 22:04:32: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-2573 -1163 197") (attacker_position "-2467 -1329 128") (victim_position "-2253 -1179 102")
+L 09/16/2015 - 22:04:33: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "bl<555><[U:1:39816373]><Blue>" with "sniperrifle" (customkill "headshot") (attacker_position "-1387 31 228") (victim_position "-1091 -1077 126")
+L 09/16/2015 - 22:05:30: "s.<10><[U:1:90137716]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "0") (ubercharge "0")
+L 09/16/2015 - 22:05:30: "s.<10><[U:1:90137716]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "tf_projectile_pipe_remote" (attacker_position "-200 43 528") (victim_position "-107 8 487")
+L 09/16/2015 - 22:04:34: "jmomo<575><[U:1:14838639]><Red>" triggered "player_extinguished" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "tf_weapon_medigun" (attacker_position "-1418 -202 236") (victim_position "-1540 38 276")
+L 09/16/2015 - 22:05:35: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "scattergun" (attacker_position "-691 -874 544") (victim_position "-611 -1027 555")
+L 09/16/2015 - 22:04:40: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "knife" (customkill "backstab") (attacker_position "-1459 -672 149") (victim_position "-1411 -626 169")
+L 09/16/2015 - 22:04:40: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "kill assist" against "Rg Groove<562><[U:1:74497530]><Blue>" (assister_position "-1275 316 240") (attacker_position "-1459 -672 149") (victim_position "-1411 -626 169")
+L 09/16/2015 - 22:04:41: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-867 -466 381")
+L 09/16/2015 - 22:05:38: "The Apex Predator<5><[U:1:90934638]><Red>" killed "fil VcN.<3><[U:1:169066091]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-578 631 515") (victim_position "644 122 576")
+L 09/16/2015 - 22:04:41: "nx-<563><[U:1:290755]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "scattergun" (attacker_position "-959 -800 150") (victim_position "-1258 -742 171")
+L 09/16/2015 - 22:04:42: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_carryobject" (object "OBJ_DISPENSER") (position "-2253 1035 124")
+L 09/16/2015 - 22:05:39: "Bobanook<4><[U:1:76371662]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "tf_projectile_rocket" (attacker_position "2618 2158 735") (victim_position "2458 2141 704")
+L 09/16/2015 - 22:04:45: "nx-<563><[U:1:290755]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "2976") (ubercharge "1")
+L 09/16/2015 - 22:04:45: "nx-<563><[U:1:290755]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "scattergun" (attacker_position "-1135 196 238") (victim_position "-1427 466 234")
+L 09/16/2015 - 22:05:42: "trucks<12><[U:1:83656662]><Red>" killed "Bobanook<4><[U:1:76371662]><Blue>" with "scattergun" (attacker_position "2339 2049 652") (victim_position "2148 1571 754")
+L 09/16/2015 - 22:05:42: "G0ld Dust  :><14><[U:1:90650106]><Red>" triggered "kill assist" against "Bobanook<4><[U:1:76371662]><Blue>" (assister_position "2458 2141 718") (attacker_position "2339 2049 652") (victim_position "2148 1571 754")
+L 09/16/2015 - 22:04:47: "nx-<563><[U:1:290755]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "scattergun" (attacker_position "-1396 633 177") (victim_position "-1187 868 160")
+L 09/16/2015 - 22:04:48: "nx-<563><[U:1:290755]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-1133 651 195") (victim_position "-1052 965 140")
+L 09/16/2015 - 22:04:48: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_dropobject" (object "OBJ_DISPENSER") (position "-1533 570 142")
+L 09/16/2015 - 22:04:48: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1533 570 142")
+L 09/16/2015 - 22:05:46: "Nato<7><[U:1:119239842]><Blue>" committed suicide with "tf_projectile_rocket" (attacker_position "-1028 -1800 521")
+L 09/16/2015 - 22:04:50: "do the nasty<571><[U:1:84584561]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "tf_projectile_pipe" (attacker_position "-2421 -695 209") (victim_position "-1853 -101 260")
+L 09/16/2015 - 22:04:50: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-497 -1329 128") (attacker_position "-2421 -695 209") (victim_position "-1853 -101 260")
+L 09/16/2015 - 22:05:47: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "scattergun" (attacker_position "-133 -509 637") (victim_position "-211 -653 523")
+L 09/16/2015 - 22:05:47: "s.<10><[U:1:90137716]><Blue>" triggered "kill assist" against "The Apex Predator<5><[U:1:90934638]><Red>" (assister_position "-430 -551 518") (attacker_position "-133 -509 637") (victim_position "-211 -653 523")
+L 09/16/2015 - 22:04:55: "brulée<569><[U:1:153985067]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1355 -429 242")
+L 09/16/2015 - 22:04:55: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (assist "1") (assister_position "-1259 -621 248") (attacker_position "-1355 -429 242")
+L 09/16/2015 - 22:04:56: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-1022 -903 139")
+L 09/16/2015 - 22:04:56: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1022 -903 139")
+L 09/16/2015 - 22:04:57: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1147 -472 239")
+L 09/16/2015 - 22:05:54: "My gamesense is tingling<6><[U:1:106712702]><Red>" killed "s.<10><[U:1:90137716]><Blue>" with "scattergun" (attacker_position "835 1544 576") (victim_position "733 1437 644")
+L 09/16/2015 - 22:04:58: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1876 399 212")
+L 09/16/2015 - 22:04:58: "ngc.PapiYisus<558><[U:1:101812897]><Red>" say_team "med u better pop at the moment u get the uber haha"
+L 09/16/2015 - 22:05:55: "trucks<12><[U:1:83656662]><Red>" killed "D1 BOUND<8><[U:1:118621338]><Blue>" with "scattergun" (attacker_position "-7 -971 512") (victim_position "5 -1113 512")
+L 09/16/2015 - 22:05:01: "do the nasty<571><[U:1:84584561]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1696 96 226")
+L 09/16/2015 - 22:05:02: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" changed role to "scout"
+L 09/16/2015 - 22:05:02: "nx-<563><[U:1:290755]><Blue>" killed "g.<568><[U:1:21138944]><Red>" with "scattergun" (attacker_position "-966 1414 35") (victim_position "-497 1332 128")
+L 09/16/2015 - 22:05:02: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "3") (player1 "「Tsukiko」<561><[U:1:111754095]><Blue>") (position1 "-1452 113 228") (player2 "Bruh...#1<567><[U:1:211486742]><Blue>") (position2 "-1507 -23 291") (player3 "do the nasty<571><[U:1:84584561]><Blue>") (position3 "-1392 -38 228")
+L 09/16/2015 - 22:05:04: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1154 -315 247")
+L 09/16/2015 - 22:05:04: "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "eternal_reward" (attacker_position "-2298 666 256") (victim_position "-2301 668 256")
+L 09/16/2015 - 22:05:04: "bl<555><[U:1:39816373]><Blue>" triggered "kill assist" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" (assister_position "-2231 -421 256") (attacker_position "-2298 666 256") (victim_position "-2301 668 256")
+L 09/16/2015 - 22:05:05: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1092 -199 240")
+L 09/16/2015 - 22:05:05: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1092 -199 240")
+L 09/16/2015 - 22:05:07: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "minigun") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1298 367 244")
+L 09/16/2015 - 22:05:07: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "32") (ubercharge "0")
+L 09/16/2015 - 22:05:07: "Rg Groove<562><[U:1:74497530]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "minigun" (attacker_position "-1325 400 244") (victim_position "-1725 772 98")
+L 09/16/2015 - 22:05:07: "nx-<563><[U:1:290755]><Blue>" triggered "kill assist" against "jmomo<575><[U:1:14838639]><Red>" (assister_position "-1337 747 164") (attacker_position "-1325 400 244") (victim_position "-1725 772 98")
+L 09/16/2015 - 22:05:08: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1517 -575 143")
+L 09/16/2015 - 22:06:05: "trucks<12><[U:1:83656662]><Red>" killed "fil VcN.<3><[U:1:169066091]><Blue>" with "scattergun" (attacker_position "-594 669 520") (victim_position "-475 280 595")
+L 09/16/2015 - 22:05:09: "bl<555><[U:1:39816373]><Blue>" killed "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" with "awper_hand" (attacker_position "-1876 -136 248") (victim_position "-1811 376 202")
+L 09/16/2015 - 22:05:09: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" (assister_position "-1437 508 206") (attacker_position "-1876 -136 248") (victim_position "-1811 376 202")
+L 09/16/2015 - 22:06:10: "trucks<12><[U:1:83656662]><Red>" killed "Nato<7><[U:1:119239842]><Blue>" with "scattergun" (attacker_position "-517 -341 493") (victim_position "-792 -320 593")
+L 09/16/2015 - 22:06:14: "My gamesense is tingling<6><[U:1:106712702]><Red>" killed "Bobanook<4><[U:1:76371662]><Blue>" with "scattergun" (attacker_position "90 -280 804") (victim_position "37 -158 743")
+L 09/16/2015 - 22:05:18: "nx-<563><[U:1:290755]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-1775 1200 53") (victim_position "-1862 1237 41")
+L 09/16/2015 - 22:05:20: "nx-<563><[U:1:290755]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "scattergun" (attacker_position "-1798 1405 22") (victim_position "-1711 1254 64")
+L 09/16/2015 - 22:05:20: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "milk_attack" against "nx-<563><[U:1:290755]><Blue>" with "tf_weapon_jar" (attacker_position "-1629 1208 92") (victim_position "-1717 1465 11")
+L 09/16/2015 - 22:06:17: "s.<10><[U:1:90137716]><Blue>" committed suicide with "tf_projectile_pipe" (attacker_position "490 262 504")
+L 09/16/2015 - 22:05:21: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "object_detonated" (object "OBJ_TELEPORTER") (position "-2422 -1109 127")
+L 09/16/2015 - 22:05:21: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "pda_engineer") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-2422 -1109 127")
+L 09/16/2015 - 22:06:18: "trucks<12><[U:1:83656662]><Red>" triggered "medic_death" against "contrast<9><[U:1:91622419]><Blue>" (healing "82") (ubercharge "0")
+L 09/16/2015 - 22:06:18: "trucks<12><[U:1:83656662]><Red>" killed "contrast<9><[U:1:91622419]><Blue>" with "scattergun" (attacker_position "-537 -288 492") (victim_position "-590 -510 520")
+L 09/16/2015 - 22:06:18: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "kill assist" against "contrast<9><[U:1:91622419]><Blue>" (assister_position "-18 -130 736") (attacker_position "-537 -288 492") (victim_position "-590 -510 520")
+L 09/16/2015 - 22:05:22: "nx-<563><[U:1:290755]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "scattergun" (attacker_position "-2011 998 66") (victim_position "-1924 859 75")
+L 09/16/2015 - 22:05:23: "Rg Groove<562><[U:1:74497530]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "world" (attacker_position "-1301 328 242") (victim_position "-629 1335 124")
+L 09/16/2015 - 22:05:23: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "kill assist" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" (assister_position "-1279 -20 236") (attacker_position "-1301 328 242") (victim_position "-629 1335 124")
+L 09/16/2015 - 22:06:20: "s.<10><[U:1:90137716]><Blue>" say "rup "
+L 09/16/2015 - 22:05:23: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-2413 -970 128")
+L 09/16/2015 - 22:06:20: "fil VcN.<3><[U:1:169066091]><Blue>" say "RUP?"
+L 09/16/2015 - 22:05:26: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1955 844 233")
+L 09/16/2015 - 22:05:26: "P2501<577><[U:1:30755493]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:05:26: "P2501<577><[U:1:30755493]><>" STEAM USERID validated
+L 09/16/2015 - 22:05:31: "g.<568><[U:1:21138944]><Red>" killed "brulée<569><[U:1:153985067]><Blue>" with "world" (attacker_position "-504 1887 128") (victim_position "-456 1896 128")
+L 09/16/2015 - 22:05:34: "g.<568><[U:1:21138944]><Red>" say "got em"
+L 09/16/2015 - 22:06:31: "s.<10><[U:1:90137716]><Blue>" changed name to "CHINK LOOKIN ASS NIGGA -_-"
+L 09/16/2015 - 22:05:36: "bl<555><[U:1:39816373]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-1512 -439 294") (victim_position "-2455 686 197")
+L 09/16/2015 - 22:05:36: "do the nasty<571><[U:1:84584561]><Blue>" triggered "kill assist" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" (assister_position "-1987 420 256") (attacker_position "-1512 -439 294") (victim_position "-2455 686 197")
+L 09/16/2015 - 22:06:33: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "scattergun" (attacker_position "-907 -1750 508") (victim_position "-839 -1637 541")
+L 09/16/2015 - 22:06:33: "Nato<7><[U:1:119239842]><Blue>" triggered "kill assist" against "trucks<12><[U:1:83656662]><Red>" (assister_position "-1643 -1983 768") (attacker_position "-907 -1750 508") (victim_position "-839 -1637 541")
+L 09/16/2015 - 22:06:35: "The Apex Predator<5><[U:1:90934638]><Red>" say "waiting for ping to go down"
+L 09/16/2015 - 22:05:40: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "obj_minisentry" (attacker_position "-2400 -980 128") (victim_position "-1917 297 283")
+L 09/16/2015 - 22:05:40: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-2019 512 256") (attacker_position "-2400 -980 128") (victim_position "-1917 297 283")
+L 09/16/2015 - 22:06:38: "trucks<12><[U:1:83656662]><Red>" say "ye"
+L 09/16/2015 - 22:06:40: "The Apex Predator<5><[U:1:90934638]><Red>" killed "Bobanook<4><[U:1:76371662]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-312 -1926 672") (victim_position "-720 -1588 631")
+L 09/16/2015 - 22:05:44: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "tf_projectile_rocket" (attacker_position "-2631 1371 165") (victim_position "-2627 1178 149")
+L 09/16/2015 - 22:05:44: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-2655 1296 138") (attacker_position "-2631 1371 165") (victim_position "-2627 1178 149")
+L 09/16/2015 - 22:05:45: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-2190 333 256")
+L 09/16/2015 - 22:05:45: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-2190 333 256")
+L 09/16/2015 - 22:06:42: "My gamesense is tingling<6><[U:1:106712702]><Red>" committed suicide with "world" (attacker_position "68 4 487")
+L 09/16/2015 - 22:06:43: "The Apex Predator<5><[U:1:90934638]><Red>" killed "D1 BOUND<8><[U:1:118621338]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "-704 -1619 574") (victim_position "-999 -1889 489")
+L 09/16/2015 - 22:05:48: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" say_team "take care of the sniper"
+L 09/16/2015 - 22:05:49: "bl<555><[U:1:39816373]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-1540 -440 294") (victim_position "-1906 840 77")
+L 09/16/2015 - 22:06:46: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" say "get over it"
+L 09/16/2015 - 22:06:47: "fil VcN.<3><[U:1:169066091]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "scattergun" (attacker_position "-611 -956 544") (victim_position "-766 -707 566")
+L 09/16/2015 - 22:05:51: "nx-<563><[U:1:290755]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1688 871 232")
+L 09/16/2015 - 22:05:51: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "tf_projectile_rocket" (attacker_position "-1995 454 256") (victim_position "-2110 404 256")
+L 09/16/2015 - 22:05:51: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "medic_death" against "Bruh...#1<567><[U:1:211486742]><Blue>" (healing "1322") (ubercharge "0")
+L 09/16/2015 - 22:05:51: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "tf_projectile_rocket" (attacker_position "-1995 454 256") (victim_position "-2200 303 256")
+L 09/16/2015 - 22:06:49: "Nato<7><[U:1:119239842]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "tf_projectile_rocket" (attacker_position "63 -1662 680") (victim_position "-41 -1018 512")
+L 09/16/2015 - 22:06:50: "trucks<12><[U:1:83656662]><Red>" say "cool"
+L 09/16/2015 - 22:06:51: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" killed "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" with "ubersaw" (attacker_position "-677 -79 576") (victim_position "-664 -50 576")
+L 09/16/2015 - 22:05:55: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "shotgun_primary" (attacker_position "-2344 1063 134") (victim_position "-2582 857 128")
+L 09/16/2015 - 22:05:55: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" (assister_position "-1879 1212 39") (attacker_position "-2344 1063 134") (victim_position "-2582 857 128")
+L 09/16/2015 - 22:06:52: "fil VcN.<3><[U:1:169066091]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "80") (ubercharge "0")
+L 09/16/2015 - 22:06:52: "fil VcN.<3><[U:1:169066091]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "pistol_scout" (attacker_position "-616 101 576") (victim_position "-740 72 576")
+L 09/16/2015 - 22:05:56: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "minigun" (attacker_position "-1688 795 232") (victim_position "-1900 291 256")
+L 09/16/2015 - 22:05:58: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2454 1354 128")
+L 09/16/2015 - 22:05:59: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "minigun" (attacker_position "-1723 520 164") (victim_position "-2143 302 256")
+L 09/16/2015 - 22:05:59: "ngc.Traxx'<565><[U:1:87192239]><Red>" triggered "kill assist" against "Rg Groove<562><[U:1:74497530]><Blue>" (assister_position "-1052 643 196") (attacker_position "-1723 520 164") (victim_position "-2143 302 256")
+L 09/16/2015 - 22:05:59: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1075 -137 240")
+L 09/16/2015 - 22:06:01: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "bl<555><[U:1:39816373]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-1155 602 207") (victim_position "-1152 -488 234")
+L 09/16/2015 - 22:06:02: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1758 299 217")
+L 09/16/2015 - 22:06:03: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1676 -476 174")
+L 09/16/2015 - 22:06:05: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1571 -1 231")
+L 09/16/2015 - 22:06:07: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-2022 1014 65")
+L 09/16/2015 - 22:07:04: "Nato<7><[U:1:119239842]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "tf_projectile_rocket" (attacker_position "42 -299 736") (victim_position "-231 -498 477")
+L 09/16/2015 - 22:07:04: "fil VcN.<3><[U:1:169066091]><Blue>" triggered "kill assist" against "trucks<12><[U:1:83656662]><Red>" (assister_position "-124 -304 480") (attacker_position "42 -299 736") (victim_position "-231 -498 477")
+L 09/16/2015 - 22:06:08: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "tf_projectile_rocket") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-918 -2372 47")
+L 09/16/2015 - 22:06:10: "do the nasty<571><[U:1:84584561]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1781 -83 236")
+L 09/16/2015 - 22:06:11: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "scattergun") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1370 -455 240")
+L 09/16/2015 - 22:06:11: "jmomo<575><[U:1:14838639]><Red>" triggered "killedobject" (object "OBJ_DISPENSER") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (assist "1") (assister_position "-1432 -202 236") (attacker_position "-1370 -455 240")
+L 09/16/2015 - 22:06:12: "g.<568><[U:1:21138944]><Red>" killed "Vipa ringme<556><[U:1:144403197]><Blue>" with "loose_cannon_impact" (attacker_position "-1726 161 233") (victim_position "-1724 -287 218")
+L 09/16/2015 - 22:06:13: "do the nasty<571><[U:1:84584561]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "950") (ubercharge "0")
+L 09/16/2015 - 22:06:13: "do the nasty<571><[U:1:84584561]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "tf_projectile_pipe" (attacker_position "-1682 -115 225") (victim_position "-1428 -207 236")
+L 09/16/2015 - 22:06:14: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "g.<568><[U:1:21138944]><Red>") (position1 "-1739 -8 229") (player2 "Douchebag #learning sfm<572><[U:1:184493993]><Red>") (position2 "-1541 42 231")
+L 09/16/2015 - 22:07:11: "D1 BOUND<8><[U:1:118621338]><Blue>" say "FAGGOT"
+L 09/16/2015 - 22:06:15: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "minigun" (attacker_position "-1569 79 231") (victim_position "-1835 190 246")
+L 09/16/2015 - 22:06:15: "a pyro main<570><[U:1:132632907]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-1842 318 220") (attacker_position "-1569 79 231") (victim_position "-1835 190 246")
+L 09/16/2015 - 22:06:15: World triggered "Round_Win" (winner "Red")
+L 09/16/2015 - 22:06:15: World triggered "Round_Length" (seconds "336.09")
+L 09/16/2015 - 22:06:15: Team "Red" current score "1" with "8" players
+L 09/16/2015 - 22:06:15: Team "Blue" current score "0" with "9" players
+L 09/16/2015 - 22:06:18: "a pyro main<570><[U:1:132632907]><Red>" killed "brulée<569><[U:1:153985067]><Blue>" with "powerjack" (attacker_position "-2248 -208 256") (victim_position "-2312 -178 295")
+L 09/16/2015 - 22:07:15: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" say_team "[P-REC] Recording..."
+L 09/16/2015 - 22:07:15: "My gamesense is tingling<6><[U:1:106712702]><Red>" say_team "[P-REC] Recording..."
+L 09/16/2015 - 22:07:15: "fil VcN.<3><[U:1:169066091]><Blue>" say_team "[P-REC] Recording..."
+L 09/16/2015 - 22:07:15: "G0ld Dust  :><14><[U:1:90650106]><Red>" say_team "[P-REC] MOM GET THE CAMERA!!"
+L 09/16/2015 - 22:07:15: "Smesi<17><[U:1:98351880]><Red>" say_team "[P-REC] Recording..."
+L 09/16/2015 - 22:07:16: World triggered "Round_Start"
+L 09/16/2015 - 22:07:16: World triggered "Round_Start"
+L 09/16/2015 - 22:07:16: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" say "yeet"
+L 09/16/2015 - 22:06:20: World triggered "Round_Start"
+L 09/16/2015 - 22:06:21: "g.<568><[U:1:21138944]><Red>" say "!rep our scout"
+L 09/16/2015 - 22:06:21: "Console<0><Console><Console>" say "TF2Center: RED SCOUT P2501 has just joined, players can be reported after 1.5 minute"
+L 09/16/2015 - 22:06:27: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1566 2878 64")
+L 09/16/2015 - 22:06:28: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1543 -2908 64")
+L 09/16/2015 - 22:06:37: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2334 1441 127")
+L 09/16/2015 - 22:06:40: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-386 -1182 285")
+L 09/16/2015 - 22:06:43: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1978 964 67")
+L 09/16/2015 - 22:06:44: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "player_extinguished" against "brulée<569><[U:1:153985067]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-2478 -765 164") (victim_position "-2492 -646 256")
+L 09/16/2015 - 22:06:45: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-2229 1318 85")
+L 09/16/2015 - 22:06:45: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" killed "brulée<569><[U:1:153985067]><Blue>" with "scattergun" (attacker_position "-2148 -417 256") (victim_position "-2424 -792 160")
+L 09/16/2015 - 22:06:45: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "kill assist" against "brulée<569><[U:1:153985067]><Blue>" (assister_position "-1548 80 231") (attacker_position "-2148 -417 256") (victim_position "-2424 -792 160")
+L 09/16/2015 - 22:06:45: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "player_extinguished" against "「Tsukiko」<561><[U:1:111754095]><Blue>" with "tf_weapon_medigun" (attacker_position "-2565 -989 128") (victim_position "-2359 -626 256")
+L 09/16/2015 - 22:06:46: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1045 -638 197")
+L 09/16/2015 - 22:07:44: "Nato<7><[U:1:119239842]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "tf_projectile_rocket" (attacker_position "0 -465 707") (victim_position "-296 -554 477")
+L 09/16/2015 - 22:07:44: "fil VcN.<3><[U:1:169066091]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "scattergun" (attacker_position "650 -556 544") (victim_position "643 -301 621")
+L 09/16/2015 - 22:07:44: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "trucks<12><[U:1:83656662]><Red>" (assister_position "528 -315 599") (attacker_position "650 -556 544") (victim_position "643 -301 621")
+L 09/16/2015 - 22:06:48: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "scattergun" (attacker_position "-1921 -1065 124") (victim_position "-2333 -1137 134")
+L 09/16/2015 - 22:06:48: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1794 801 81")
+L 09/16/2015 - 22:06:48: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1794 801 81")
+L 09/16/2015 - 22:06:48: "bl<555><[U:1:39816373]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "670") (ubercharge "0")
+L 09/16/2015 - 22:06:48: "bl<555><[U:1:39816373]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "awper_hand" (attacker_position "-1299 -1078 384") (victim_position "-1183 293 243")
+L 09/16/2015 - 22:06:53: "「Tsukiko」<561><[U:1:111754095]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "degreaser" (attacker_position "-1987 -1091 42") (victim_position "-1904 -576 153")
+L 09/16/2015 - 22:07:50: "The Apex Predator<5><[U:1:90934638]><Red>" killed "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "828 -522 544") (victim_position "499 -806 570")
+L 09/16/2015 - 22:07:52: "Nato<7><[U:1:119239842]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "tf_projectile_rocket" (attacker_position "-223 234 760") (victim_position "-100 410 774")
+L 09/16/2015 - 22:07:52: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "pistol_scout" (attacker_position "540 -471 771") (victim_position "821 -522 544")
+L 09/16/2015 - 22:06:57: "g.<568><[U:1:21138944]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "loose_cannon_impact") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1286 312 240")
+L 09/16/2015 - 22:07:02: "bl<555><[U:1:39816373]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-1291 -1119 384") (victim_position "-1158 497 230")
+L 09/16/2015 - 22:07:58: "Nato<7><[U:1:119239842]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "tf_projectile_rocket" (attacker_position "237 764 520") (victim_position "699 999 593")
+L 09/16/2015 - 22:07:58: "fil VcN.<3><[U:1:169066091]><Blue>" triggered "kill assist" against "G0ld Dust  :><14><[U:1:90650106]><Red>" (assister_position "730 399 544") (attacker_position "237 764 520") (victim_position "699 999 593")
+L 09/16/2015 - 22:08:01: "Smesi<17><[U:1:98351880]><Red>" say "where is this server?"
+L 09/16/2015 - 22:07:07: "do the nasty<571><[U:1:84584561]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1759 336 209")
+L 09/16/2015 - 22:07:08: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1174 307 246")
+L 09/16/2015 - 22:07:09: "Rg Groove<562><[U:1:74497530]><Blue>" killed "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" with "minigun" (attacker_position "-2247 52 256") (victim_position "-2156 353 256")
+L 09/16/2015 - 22:07:11: "Rg Groove<562><[U:1:74497530]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "world" (attacker_position "-2161 201 256") (victim_position "-1299 457 324")
+L 09/16/2015 - 22:07:11: "bl<555><[U:1:39816373]><Blue>" triggered "kill assist" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" (assister_position "-1317 -1108 384") (attacker_position "-2161 201 256") (victim_position "-1299 457 324")
+L 09/16/2015 - 22:07:11: "ngc.Traxx'<565><[U:1:87192239]><Red>" triggered "medic_death" against "Bruh...#1<567><[U:1:211486742]><Blue>" (healing "1097") (ubercharge "0")
+L 09/16/2015 - 22:07:11: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "awper_hand" (attacker_position "-664 801 389") (victim_position "-2280 -391 298")
+L 09/16/2015 - 22:08:08: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" say "dallas u dumb nigga"
+L 09/16/2015 - 22:07:12: "Rg Groove<562><[U:1:74497530]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "minigun" (attacker_position "-2117 233 256") (victim_position "-670 819 388")
+L 09/16/2015 - 22:07:12: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "ngc.Traxx'<565><[U:1:87192239]><Red>" (assister_position "-1646 -213 236") (attacker_position "-2117 233 256") (victim_position "-670 819 388")
+L 09/16/2015 - 22:08:08: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "933") (ubercharge "0")
+L 09/16/2015 - 22:08:08: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "scattergun" (attacker_position "1425 915 480") (victim_position "1565 1281 480")
+L 09/16/2015 - 22:08:08: "fil VcN.<3><[U:1:169066091]><Blue>" triggered "kill assist" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (assister_position "1413 1122 480") (attacker_position "1425 915 480") (victim_position "1565 1281 480")
+L 09/16/2015 - 22:07:16: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "player_extinguished" against "Rg Groove<562><[U:1:74497530]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-1857 33 243") (victim_position "-1857 168 243")
+L 09/16/2015 - 22:07:17: "do the nasty<571><[U:1:84584561]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "tf_projectile_pipe" (attacker_position "-1713 646 132") (victim_position "-2084 964 87")
+L 09/16/2015 - 22:07:17: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-2167 -419 305") (attacker_position "-1713 646 132") (victim_position "-2084 964 87")
+L 09/16/2015 - 22:07:17: "do the nasty<571><[U:1:84584561]><Blue>" triggered "killedobject" (object "OBJ_DISPENSER") (weapon "tf_projectile_pipe") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1713 646 132")
+L 09/16/2015 - 22:07:17: "g.<568><[U:1:21138944]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "loose_cannon_impact") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-886 1253 85")
+L 09/16/2015 - 22:08:14: "Smesi<17><[U:1:98351880]><Red>" say "fucking dallas"
+L 09/16/2015 - 22:07:19: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-1593 -516 157")
+L 09/16/2015 - 22:07:21: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1969 -72 326")
+L 09/16/2015 - 22:07:22: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "「Tsukiko」<561><[U:1:111754095]><Blue>") (position1 "-1448 129 228") (player2 "do the nasty<571><[U:1:84584561]><Blue>") (position2 "-1458 20 231")
+L 09/16/2015 - 22:08:22: "My gamesense is tingling<6><[U:1:106712702]><Red>" changed role to "engineer"
+L 09/16/2015 - 22:07:27: "bl<555><[U:1:39816373]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "184") (ubercharge "0")
+L 09/16/2015 - 22:07:27: "bl<555><[U:1:39816373]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-1549 -455 292") (victim_position "-1897 1087 41")
+L 09/16/2015 - 22:07:27: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "jmomo<575><[U:1:14838639]><Red>" (assister_position "-1699 0 252") (attacker_position "-1549 -455 292") (victim_position "-1897 1087 41")
+L 09/16/2015 - 22:08:24: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Middle Point") (numcappers "1") (player1 "Bobanook<4><[U:1:76371662]><Blue>") (position1 "109 -35 485")
+L 09/16/2015 - 22:08:29: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "3139 1280 480")
+L 09/16/2015 - 22:07:33: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "scattergun" (attacker_position "-1829 836 73") (victim_position "-1975 855 131")
+L 09/16/2015 - 22:07:33: "g.<568><[U:1:21138944]><Red>" triggered "kill assist" against "「Tsukiko」<561><[U:1:111754095]><Blue>" (assister_position "-2212 1124 99") (attacker_position "-1829 836 73") (victim_position "-1975 855 131")
+L 09/16/2015 - 22:07:33: "bl<555><[U:1:39816373]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "awper_hand" (attacker_position "-1547 -441 294") (victim_position "-1918 994 71")
+L 09/16/2015 - 22:07:33: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-1634 -505 163") (attacker_position "-1547 -441 294") (victim_position "-1918 994 71")
+L 09/16/2015 - 22:07:35: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" say "lol"
+L 09/16/2015 - 22:08:33: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Red Mini-Spire") (numcappers "1") (player1 "fil VcN.<3><[U:1:169066091]><Blue>") (position1 "1792 2156 768")
+L 09/16/2015 - 22:07:37: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "minigun" (attacker_position "-815 1231 362") (victim_position "-1652 1421 23")
+L 09/16/2015 - 22:07:37: "g.<568><[U:1:21138944]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-1585 1422 20") (attacker_position "-815 1231 362") (victim_position "-1652 1421 23")
+L 09/16/2015 - 22:07:38: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" say "dat body"
+L 09/16/2015 - 22:07:41: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2373 1309 123")
+L 09/16/2015 - 22:07:42: "nx-<563><[U:1:290755]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "scattergun" (attacker_position "-1264 950 160") (victim_position "-1329 969 160")
+L 09/16/2015 - 22:07:42: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" (assister_position "-1046 -13 240") (attacker_position "-1264 950 160") (victim_position "-1329 969 160")
+L 09/16/2015 - 22:07:44: "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" killed "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" with "eternal_reward" (customkill "backstab") (attacker_position "-2431 1186 124") (victim_position "-2384 1111 126")
+L 09/16/2015 - 22:07:45: "bl<555><[U:1:39816373]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "awper_hand" (attacker_position "-2010 -180 256") (victim_position "-887 415 539")
+L 09/16/2015 - 22:07:45: "brulée<569><[U:1:153985067]><Blue>" triggered "kill assist" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" (assister_position "-981 443 391") (attacker_position "-2010 -180 256") (victim_position "-887 415 539")
+L 09/16/2015 - 22:07:46: "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" triggered "player_builtobject" (object "OBJ_ATTACHMENT_SAPPER") (position "-2444 1172 125")
+L 09/16/2015 - 22:08:43: "The Apex Predator<5><[U:1:90934638]><Red>" killed "Nato<7><[U:1:119239842]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "3325 2307 576") (victim_position "2594 2140 704")
+L 09/16/2015 - 22:07:47: "nx-<563><[U:1:290755]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-1694 1503 3") (victim_position "-2180 1361 10")
+L 09/16/2015 - 22:08:44: "contrast<9><[U:1:91622419]><Blue>" triggered "chargedeployed"
+L 09/16/2015 - 22:07:50: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1935 -63 325")
+L 09/16/2015 - 22:07:50: "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "obj_attachment_sapper") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-1962 1640 180")
+L 09/16/2015 - 22:07:51: "brulée<569><[U:1:153985067]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "79") (ubercharge "0")
+L 09/16/2015 - 22:07:51: "brulée<569><[U:1:153985067]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "tf_projectile_rocket" (attacker_position "-377 1323 285") (victim_position "-313 1506 157")
+L 09/16/2015 - 22:07:55: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-2529 539 256")
+L 09/16/2015 - 22:07:55: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2529 539 256")
+L 09/16/2015 - 22:07:56: "g.<568><[U:1:21138944]><Red>" killed "brulée<569><[U:1:153985067]><Blue>" with "loose_cannon_impact" (attacker_position "-488 1811 128") (victim_position "-738 866 404")
+L 09/16/2015 - 22:07:56: "g.<568><[U:1:21138944]><Red>" triggered "domination" against "brulée<569><[U:1:153985067]><Blue>"
+L 09/16/2015 - 22:07:56: "nx-<563><[U:1:290755]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "scattergun" (attacker_position "-1163 1959 0") (victim_position "-1203 2046 0")
+L 09/16/2015 - 22:08:58: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "scattergun" (attacker_position "2937 1692 630") (victim_position "3127 1531 480")
+L 09/16/2015 - 22:09:00: "My gamesense is tingling<6><[U:1:106712702]><Red>" killed "Bobanook<4><[U:1:76371662]><Blue>" with "obj_sentrygun" (attacker_position "3641 1369 576") (victim_position "2912 2263 704")
+L 09/16/2015 - 22:09:00: "The Apex Predator<5><[U:1:90934638]><Red>" triggered "kill assist" against "Bobanook<4><[U:1:76371662]><Blue>" (assister_position "3859 1656 576") (attacker_position "3641 1369 576") (victim_position "2912 2263 704")
+L 09/16/2015 - 22:08:05: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "pistol" (attacker_position "-2373 1199 124") (victim_position "-1839 928 75")
+L 09/16/2015 - 22:08:05: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-2515 826 255") (attacker_position "-2373 1199 124") (victim_position "-1839 928 75")
+L 09/16/2015 - 22:09:02: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "tf_projectile_pipe_remote" (attacker_position "2061 2411 580") (victim_position "3998 1631 576")
+L 09/16/2015 - 22:09:03: "fil VcN.<3><[U:1:169066091]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "scattergun" (attacker_position "2461 796 576") (victim_position "2599 491 621")
+L 09/16/2015 - 22:09:03: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "Smesi<17><[U:1:98351880]><Red>" (assister_position "2238 951 763") (attacker_position "2461 796 576") (victim_position "2599 491 621")
+L 09/16/2015 - 22:08:07: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "player_extinguished" against "Vipa ringme<556><[U:1:144403197]><Blue>" with "tf_weapon_medigun" (attacker_position "-2422 875 176") (victim_position "-2432 787 158")
+L 09/16/2015 - 22:08:07: "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "eternal_reward" (customkill "backstab") (attacker_position "-2176 1759 132") (victim_position "-2230 1723 168")
+L 09/16/2015 - 22:08:07: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" (assister_position "-2344 661 256") (attacker_position "-2176 1759 132") (victim_position "-2230 1723 168")
+L 09/16/2015 - 22:08:09: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "shotgun_primary" (attacker_position "-2093 1751 128") (victim_position "-2345 1688 128")
+L 09/16/2015 - 22:08:09: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "kill assist" against "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" (assister_position "-2230 1709 155") (attacker_position "-2093 1751 128") (victim_position "-2345 1688 128")
+L 09/16/2015 - 22:08:09: "bl<555><[U:1:39816373]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-2472 782 140") (victim_position "-1532 1889 0")
+L 09/16/2015 - 22:08:09: "bl<555><[U:1:39816373]><Blue>" triggered "domination" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>"
+L 09/16/2015 - 22:08:10: "nx-<563><[U:1:290755]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-577 1549 129") (victim_position "-663 1476 118")
+L 09/16/2015 - 22:08:10: "nx-<563><[U:1:290755]><Blue>" triggered "domination" against "ngc.Traxx'<565><[U:1:87192239]><Red>"
+L 09/16/2015 - 22:08:12: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "player_extinguished" against "Bruh...#1<567><[U:1:211486742]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-2187 314 256") (victim_position "-2286 335 256")
+L 09/16/2015 - 22:09:09: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "tf_projectile_pipe_remote" (attacker_position "2441 1937 771") (victim_position "2575 2127 704")
+L 09/17/2015 - 05:11:35: Your server needs to be restarted in order to receive the latest update.
+L 09/16/2015 - 22:08:14: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1918 2179 128")
+L 09/16/2015 - 22:08:15: "nx-<563><[U:1:290755]><Blue>" killed "g.<568><[U:1:21138944]><Red>" with "scattergun" (attacker_position "-1762 1569 -1") (victim_position "-1591 1400 26")
+L 09/16/2015 - 22:09:16: "My gamesense is tingling<6><[U:1:106712702]><Red>" killed "D1 BOUND<8><[U:1:118621338]><Blue>" with "obj_sentrygun" (attacker_position "3998 1631 590") (victim_position "3156 2260 823")
+L 09/16/2015 - 22:09:16: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" triggered "kill assist" against "D1 BOUND<8><[U:1:118621338]><Blue>" (assister_position "3919 1868 576") (attacker_position "3998 1631 590") (victim_position "3156 2260 823")
+L 09/16/2015 - 22:09:21: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_pipe_remote") (objectowner "My gamesense is tingling<6><[U:1:106712702]><Red>") (attacker_position "2764 2231 773")
+L 09/16/2015 - 22:08:25: "g.<568><[U:1:21138944]><Red>" say "!rep our scout"
+L 09/16/2015 - 22:08:25: "Console<0><Console><Console>" say "TF2Center: sub vote: RED SCOUT (1/4) [P2501]"
+L 09/16/2015 - 22:09:21: "The Apex Predator<5><[U:1:90934638]><Red>" killed "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" with "tf_projectile_pipe" (attacker_position "3676 2000 576") (victim_position "2574 2124 704")
+L 09/16/2015 - 22:09:21: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" triggered "kill assist" against "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" (assister_position "3742 1885 570") (attacker_position "3676 2000 576") (victim_position "2574 2124 704")
+L 09/16/2015 - 22:08:26: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" say_team "can someone bloody take care of the sniper?"
+L 09/16/2015 - 22:09:25: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "3785 1071 576")
+L 09/16/2015 - 22:08:31: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "object_detonated" (object "OBJ_TELEPORTER") (position "-2492 -885 128")
+L 09/16/2015 - 22:08:31: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "pda_engineer") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-2492 -885 128")
+L 09/16/2015 - 22:08:31: "do the nasty<571><[U:1:84584561]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "battleaxe" (attacker_position "-1581 1936 0") (victim_position "-1568 1920 0")
+L 09/16/2015 - 22:08:31: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "player_extinguished" against "bl<555><[U:1:39816373]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-2531 879 128") (victim_position "-2489 744 150")
+L 09/16/2015 - 22:08:32: "P2501<578><[U:1:30755493]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:08:32: "P2501<578><[U:1:30755493]><>" STEAM USERID validated
+L 09/16/2015 - 22:08:34: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-2644 -664 152")
+L 09/16/2015 - 22:08:38: "bl<555><[U:1:39816373]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-2464 460 256") (victim_position "-2290 1720 128")
+L 09/16/2015 - 22:08:44: "nx-<563><[U:1:290755]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-502 1546 130") (victim_position "-431 1720 131")
+L 09/16/2015 - 22:08:46: "Console<0><Console><Console>" say "TF2Center: 10 seconds left before expiring sub vote: RED SCOUT (1/4) [P2501]"
+L 09/16/2015 - 22:08:51: "nx-<563><[U:1:290755]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "scattergun" (attacker_position "-290 1345 239") (victim_position "-704 1205 391")
+L 09/16/2015 - 22:08:51: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pistol") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-2319 947 126")
+L 09/16/2015 - 22:08:51: "g.<568><[U:1:21138944]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "battleaxe" (attacker_position "-305 1412 210") (victim_position "-327 1384 250")
+L 09/16/2015 - 22:08:52: "ngc.Traxx'<565><[U:1:87192239]><Red>" say_team "please take care of scout i take the sniper"
+L 09/16/2015 - 22:08:56: "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" killed "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" with "ambassador" (attacker_position "-2409 1143 126") (victim_position "-2618 1022 128")
+L 09/16/2015 - 22:08:56: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "kill assist" against "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" (assister_position "-2563 1101 128") (attacker_position "-2409 1143 126") (victim_position "-2618 1022 128")
+L 09/16/2015 - 22:08:56: "bl<555><[U:1:39816373]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-1322 -137 236") (victim_position "-1298 1076 384")
+L 09/16/2015 - 22:08:56: "do the nasty<571><[U:1:84584561]><Blue>" triggered "kill assist" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" (assister_position "-1890 843 74") (attacker_position "-1322 -137 236") (victim_position "-1298 1076 384")
+L 09/16/2015 - 22:08:58: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2230 -325 256")
+L 09/16/2015 - 22:09:01: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "milk_attack" against "Rg Groove<562><[U:1:74497530]><Blue>" with "tf_weapon_jar" (attacker_position "-1542 939 164") (victim_position "-1743 1225 320")
+L 09/16/2015 - 22:09:03: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "scattergun" (attacker_position "-1738 1108 320") (victim_position "-1732 1179 320")
+L 09/16/2015 - 22:09:06: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "brulée<569><[U:1:153985067]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-1749 1849 0") (victim_position "-1824 867 232")
+L 09/16/2015 - 22:10:03: "G0ld Dust  :><14><[U:1:90650106]><Red>" killed "D1 BOUND<8><[U:1:118621338]><Blue>" with "tf_projectile_rocket" (attacker_position "2531 1269 592") (victim_position "2208 1367 545")
+L 09/16/2015 - 22:10:05: "fil VcN.<3><[U:1:169066091]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "scattergun" (attacker_position "2185 1544 472") (victim_position "2279 1083 576")
+L 09/16/2015 - 22:10:05: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "trucks<12><[U:1:83656662]><Red>" (assister_position "2208 1367 559") (attacker_position "2185 1544 472") (victim_position "2279 1083 576")
+L 09/16/2015 - 22:09:09: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-2265 -214 256")
+L 09/16/2015 - 22:09:13: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-2483 539 256")
+L 09/16/2015 - 22:09:13: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2483 539 256")
+L 09/16/2015 - 22:09:17: "bl<555><[U:1:39816373]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-1920 -266 256") (victim_position "-1863 1445 7")
+L 09/16/2015 - 22:09:18: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "chargedeployed"
+L 09/16/2015 - 22:09:20: "nx-<563><[U:1:290755]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "scattergun" (attacker_position "-2505 1234 127") (victim_position "-2178 1054 96")
+L 09/16/2015 - 22:09:23: "a pyro main<570><[U:1:132632907]><Red>" triggered "player_extinguished" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "tf_weapon_flamethrower" (attacker_position "-791 1318 95") (victim_position "-613 1330 117")
+L 09/16/2015 - 22:10:20: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "tf_projectile_pipe_remote" (attacker_position "2774 2247 704") (victim_position "3398 2142 622")
+L 09/16/2015 - 22:10:20: "Bobanook<4><[U:1:76371662]><Blue>" triggered "kill assist" against "The Apex Predator<5><[U:1:90934638]><Red>" (assister_position "2262 2212 576") (attacker_position "2774 2247 704") (victim_position "3398 2142 622")
+L 09/16/2015 - 22:09:25: "nx-<563><[U:1:290755]><Blue>" killed "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" with "scattergun" (attacker_position "-2290 1708 128") (victim_position "-2074 1686 128")
+L 09/16/2015 - 22:09:25: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" (assister_position "-1544 67 232") (attacker_position "-2290 1708 128") (victim_position "-2074 1686 128")
+L 09/16/2015 - 22:09:26: "g.<568><[U:1:21138944]><Red>" say "can i snipe please"
+L 09/16/2015 - 22:09:26: "do the nasty<571><[U:1:84584561]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "battleaxe" (attacker_position "-828 1428 65") (victim_position "-865 1446 72")
+L 09/16/2015 - 22:09:26: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-536 1344 125") (attacker_position "-828 1428 65") (victim_position "-865 1446 72")
+L 09/16/2015 - 22:09:27: "P2501<578><[U:1:30755493]><>" entered the game
+L 09/16/2015 - 22:09:30: "jmomo<575><[U:1:14838639]><Red>" triggered "chargedeployed"
+L 09/16/2015 - 22:10:27: "contrast<9><[U:1:91622419]><Blue>" triggered "chargedeployed"
+L 09/16/2015 - 22:09:32: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "medic_death" against "Bruh...#1<567><[U:1:211486742]><Blue>" (healing "1634") (ubercharge "0")
+L 09/16/2015 - 22:09:32: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "tf_projectile_rocket" (attacker_position "-1116 1268 122") (victim_position "-1044 1031 129")
+L 09/16/2015 - 22:09:32: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "kill assist" against "Bruh...#1<567><[U:1:211486742]><Blue>" (assister_position "-518 1502 128") (attacker_position "-1116 1268 122") (victim_position "-1044 1031 129")
+L 09/16/2015 - 22:09:32: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "tf_projectile_rocket" (attacker_position "-1116 1268 122") (victim_position "-928 1092 118")
+L 09/16/2015 - 22:09:32: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "kill assist" against "「Tsukiko」<561><[U:1:111754095]><Blue>" (assister_position "-518 1502 128") (attacker_position "-1116 1268 122") (victim_position "-928 1092 118")
+L 09/16/2015 - 22:09:32: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "domination" against "「Tsukiko」<561><[U:1:111754095]><Blue>"
+L 09/16/2015 - 22:10:29: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" triggered "chargedeployed"
+L 09/16/2015 - 22:09:33: "bl<555><[U:1:39816373]><Blue>" say "no"
+L 09/16/2015 - 22:09:35: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "tf_projectile_rocket" (attacker_position "-1138 773 197") (victim_position "-1249 413 244")
+L 09/16/2015 - 22:09:35: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-1086 1151 103") (attacker_position "-1138 773 197") (victim_position "-1249 413 244")
+L 09/16/2015 - 22:09:35: "nx-<563><[U:1:290755]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-2105 1912 128")
+L 09/16/2015 - 22:09:36: "P2501<578><[U:1:30755493]><Unassigned>" joined team "Red"
+L 09/16/2015 - 22:10:33: "My gamesense is tingling<6><[U:1:106712702]><Red>" killed "fil VcN.<3><[U:1:169066091]><Blue>" with "obj_sentrygun3" (attacker_position "3606 354 576") (victim_position "3797 1257 600")
+L 09/16/2015 - 22:10:34: "Bobanook<4><[U:1:76371662]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "My gamesense is tingling<6><[U:1:106712702]><Red>") (attacker_position "3074 2094 678")
+L 09/16/2015 - 22:10:37: "My gamesense is tingling<6><[U:1:106712702]><Red>" changed role to "scout"
+L 09/16/2015 - 22:09:41: "P2501<578><[U:1:30755493]><Red>" changed role to "spy"
+L 09/16/2015 - 22:09:41: "nx-<563><[U:1:290755]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-1532 1434 15") (victim_position "-1595 1639 6")
+L 09/16/2015 - 22:10:39: "trucks<12><[U:1:83656662]><Red>" killed "Bobanook<4><[U:1:76371662]><Blue>" with "scattergun" (attacker_position "3217 1612 491") (victim_position "3177 1252 529")
+L 09/16/2015 - 22:09:44: "bl<555><[U:1:39816373]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-2274 -290 256") (victim_position "-1325 -728 225")
+L 09/16/2015 - 22:09:44: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" (assister_position "-1661 -479 172") (attacker_position "-2274 -290 256") (victim_position "-1325 -728 225")
+L 09/16/2015 - 22:10:42: "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" triggered "captureblocked" (cp "4") (cpname "Red Final Point") (position "3629 1200 605")
+L 09/16/2015 - 22:09:46: "g.<568><[U:1:21138944]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "loose_cannon_explosion") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1915 488 256")
+L 09/16/2015 - 22:10:43: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "scattergun" (attacker_position "3311 1237 549") (victim_position "3733 708 598")
+L 09/16/2015 - 22:10:43: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "domination" against "trucks<12><[U:1:83656662]><Red>"
+L 09/16/2015 - 22:10:43: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "1358") (ubercharge "0")
+L 09/16/2015 - 22:10:43: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "tf_projectile_pipe_remote" (attacker_position "3412 1035 548") (victim_position "3346 1311 599")
+L 09/16/2015 - 22:10:43: "G0ld Dust  :><14><[U:1:90650106]><Red>" triggered "captureblocked" (cp "4") (cpname "Red Final Point") (position "3656 1434 621")
+L 09/16/2015 - 22:10:44: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "loose_cannon_impact" (attacker_position "3601 1096 579") (victim_position "3725 1541 584")
+L 09/16/2015 - 22:09:47: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1547 -572 141")
+L 09/16/2015 - 22:09:47: "ngc.Traxx'<565><[U:1:87192239]><Red>" say_team "scout please"
+L 09/16/2015 - 22:09:47: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2025 2319 128")
+L 09/16/2015 - 22:10:44: "G0ld Dust  :><14><[U:1:90650106]><Red>" killed "Nato<7><[U:1:119239842]><Blue>" with "tf_projectile_rocket" (attacker_position "3718 1482 576") (victim_position "3768 1500 576")
+L 09/16/2015 - 22:10:44: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "kill assist" against "Nato<7><[U:1:119239842]><Blue>" (assister_position "3801 1079 576") (attacker_position "3718 1482 576") (victim_position "3768 1500 576")
+L 09/16/2015 - 22:09:48: "bl<555><[U:1:39816373]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-2350 -595 256") (victim_position "-1625 -12 231")
+L 09/16/2015 - 22:10:45: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "captureblocked" (cp "4") (cpname "Red Final Point") (position "3684 1126 576")
+L 09/16/2015 - 22:10:49: "The Apex Predator<5><[U:1:90934638]><Red>" triggered "medic_death" against "contrast<9><[U:1:91622419]><Blue>" (healing "4034") (ubercharge "0")
+L 09/16/2015 - 22:10:49: "The Apex Predator<5><[U:1:90934638]><Red>" killed "contrast<9><[U:1:91622419]><Blue>" with "tf_projectile_pipe_remote" (attacker_position "3615 1290 583") (victim_position "3149 1329 480")
+L 09/16/2015 - 22:09:52: "nx-<563><[U:1:290755]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "1761") (ubercharge "0")
+L 09/16/2015 - 22:09:52: "nx-<563><[U:1:290755]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "pistol_scout" (attacker_position "-1459 567 168") (victim_position "-1742 742 107")
+L 09/16/2015 - 22:09:52: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "jmomo<575><[U:1:14838639]><Red>" (assister_position "-1398 699 159") (attacker_position "-1459 567 168") (victim_position "-1742 742 107")
+L 09/16/2015 - 22:10:49: "G0ld Dust  :><14><[U:1:90650106]><Red>" killed "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" with "shotgun_soldier" (attacker_position "3440 1368 576") (victim_position "3260 1494 480")
+L 09/16/2015 - 22:10:49: "The Apex Predator<5><[U:1:90934638]><Red>" triggered "kill assist" against "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" (assister_position "3593 1265 583") (attacker_position "3440 1368 576") (victim_position "3260 1494 480")
+L 09/16/2015 - 22:09:55: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" say_team "jum?="
+L 09/16/2015 - 22:09:55: "ngc.Traxx'<565><[U:1:87192239]><Red>" say_team "please kill this cout"
+L 09/16/2015 - 22:10:51: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "scattergun" (attacker_position "3291 1414 549") (victim_position "3406 1295 576")
+L 09/16/2015 - 22:09:56: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "g.<568><[U:1:21138944]><Red>" with "shotgun_primary" (attacker_position "-1900 -285 256") (victim_position "-2312 -168 256")
+L 09/16/2015 - 22:10:52: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "scattergun" (attacker_position "3339 1326 561") (victim_position "3644 1223 581")
+L 09/16/2015 - 22:10:53: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Red Final Point") (numcappers "1") (player1 "D1 BOUND<8><[U:1:118621338]><Blue>") (position1 "3558 1416 646")
+L 09/16/2015 - 22:10:53: World triggered "Round_Win" (winner "Blue")
+L 09/16/2015 - 22:10:53: World triggered "Round_Length" (seconds "217.15")
+L 09/16/2015 - 22:10:53: Team "Red" current score "0" with "6" players
+L 09/16/2015 - 22:10:53: Team "Blue" current score "1" with "6" players
+L 09/16/2015 - 22:09:57: "a pyro main<570><[U:1:132632907]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "degreaser" (attacker_position "-1197 344 248") (victim_position "-1296 166 236")
+L 09/16/2015 - 22:10:54: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "scattergun" (attacker_position "3577 1313 583") (victim_position "3415 1288 576")
+L 09/16/2015 - 22:09:58: "ngc.Traxx'<565><[U:1:87192239]><Red>" say_team "pleeease"
+L 09/16/2015 - 22:09:58: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "P2501<578><[U:1:30755493]><Red>" with "shotgun_primary" (attacker_position "-2181 -241 256") (victim_position "-2003 -331 256")
+L 09/16/2015 - 22:09:59: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" say_team "minis pls"
+L 09/16/2015 - 22:10:00: "nx-<563><[U:1:290755]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "scattergun" (attacker_position "-1983 344 256") (victim_position "-1754 651 131")
+L 09/16/2015 - 22:10:00: "nx-<563><[U:1:290755]><Blue>" triggered "domination" against "a pyro main<570><[U:1:132632907]><Red>"
+L 09/16/2015 - 22:10:57: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" say "piped like a white girl with a rich dad LMAO"
+L 09/16/2015 - 22:10:58: World triggered "Round_Start"
+L 09/16/2015 - 22:10:01: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "-1596 -598 137")
+L 09/16/2015 - 22:10:06: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "-1965 519 256")
+L 09/16/2015 - 22:10:06: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1965 519 256")
+L 09/16/2015 - 22:10:08: "g.<568><[U:1:21138944]><Red>" say "!rep our engie"
+L 09/16/2015 - 22:10:09: "Console<0><Console><Console>" say "TF2Center: sub vote: RED ENGINEER (1/4) [FΣFΣᄂIPΣ]"
+L 09/16/2015 - 22:10:11: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "shotgun_primary" (attacker_position "-2293 1002 133") (victim_position "-1828 1251 46")
+L 09/16/2015 - 22:10:11: "bl<555><[U:1:39816373]><Blue>" triggered "kill assist" against "ngc.Traxx'<565><[U:1:87192239]><Red>" (assister_position "-1738 -113 226") (attacker_position "-2293 1002 133") (victim_position "-1828 1251 46")
+L 09/16/2015 - 22:10:12: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-2224 1666 128")
+L 09/16/2015 - 22:10:12: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "pda_engineer") (objectowner "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>") (attacker_position "-2224 1666 128")
+L 09/16/2015 - 22:10:15: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2603 1304 130")
+L 09/16/2015 - 22:10:15: "nx-<563><[U:1:290755]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "pistol_scout" (attacker_position "-1967 1155 32") (victim_position "-1948 1224 49")
+L 09/16/2015 - 22:10:15: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" (assister_position "-2419 844 131") (attacker_position "-1967 1155 32") (victim_position "-1948 1224 49")
+L 09/16/2015 - 22:10:16: "nx-<563><[U:1:290755]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "pistol_scout" (attacker_position "-2030 1077 52") (victim_position "-1533 1917 0")
+L 09/16/2015 - 22:10:17: "g.<568><[U:1:21138944]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "loose_cannon_impact" (attacker_position "-417 1489 155") (victim_position "-612 1487 124")
+L 09/16/2015 - 22:10:17: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" (assister_position "-335 1245 267") (attacker_position "-417 1489 155") (victim_position "-612 1487 124")
+L 09/16/2015 - 22:10:18: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" say "w"
+L 09/16/2015 - 22:10:19: "ngc.Traxx'<565><[U:1:87192239]><Red>" say "please kill this scout"
+L 09/16/2015 - 22:10:21: "ngc.Traxx'<565><[U:1:87192239]><Red>" say "pleeease"
+L 09/16/2015 - 22:11:19: "Bobanook<4><[U:1:76371662]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "tf_projectile_rocket" (attacker_position "486 -309 595") (victim_position "675 219 639")
+L 09/16/2015 - 22:10:22: World triggered "Round_Overtime"
+L 09/16/2015 - 22:10:25: World triggered "Round_Win" (winner "Blue")
+L 09/16/2015 - 22:10:25: World triggered "Round_Length" (seconds "245.22")
+L 09/16/2015 - 22:10:25: Team "Red" current score "1" with "9" players
+L 09/16/2015 - 22:10:25: Team "Blue" current score "1" with "8" players
+L 09/16/2015 - 22:10:25: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "439") (ubercharge "0")
+L 09/16/2015 - 22:10:25: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "obj_minisentry" (attacker_position "-1545 -492 221") (victim_position "-1118 526 220")
+L 09/16/2015 - 22:10:25: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "jmomo<575><[U:1:14838639]><Red>" (assister_position "-1686 18 226") (attacker_position "-1545 -492 221") (victim_position "-1118 526 220")
+L 09/16/2015 - 22:10:25: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "domination" against "jmomo<575><[U:1:14838639]><Red>" (assist "1")
+L 09/16/2015 - 22:10:27: "bl<555><[U:1:39816373]><Blue>" killed "P2501<578><[U:1:30755493]><Red>" with "awper_hand" (attacker_position "-1893 -329 235") (victim_position "-1671 -484 171")
+L 09/16/2015 - 22:10:27: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "P2501<578><[U:1:30755493]><Red>" (assister_position "-1545 -492 221") (attacker_position "-1893 -329 235") (victim_position "-1671 -484 171")
+L 09/16/2015 - 22:11:24: "Nato<7><[U:1:119239842]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "tf_projectile_rocket" (attacker_position "55 -475 702") (victim_position "96 -28 714")
+L 09/16/2015 - 22:11:24: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "trucks<12><[U:1:83656662]><Red>" (assister_position "-468 -112 732") (attacker_position "55 -475 702") (victim_position "96 -28 714")
+L 09/16/2015 - 22:11:25: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "loose_cannon_impact" (attacker_position "750 1856 465") (victim_position "827 1682 764")
+L 09/16/2015 - 22:11:26: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "scattergun" (attacker_position "-587 332 595") (victim_position "-359 498 499")
+L 09/16/2015 - 22:10:30: "Console<0><Console><Console>" say "TF2Center: 10 seconds left before expiring sub vote: RED ENGINEER (1/4) [FΣFΣᄂIPΣ]"
+L 09/16/2015 - 22:10:30: World triggered "Round_Start"
+L 09/16/2015 - 22:11:27: "G0ld Dust  :><14><[U:1:90650106]><Red>" killed "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" with "shotgun_soldier" (attacker_position "641 2016 470") (victim_position "870 1994 583")
+L 09/16/2015 - 22:11:27: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "kill assist" against "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" (assister_position "827 1682 829") (attacker_position "641 2016 470") (victim_position "870 1994 583")
+L 09/16/2015 - 22:10:31: "g.<568><[U:1:21138944]><Red>" say "do south americans have computers"
+L 09/16/2015 - 22:11:29: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" say "moted"
+L 09/16/2015 - 22:10:34: "P2501<578><[U:1:30755493]><Red>" say "yes"
+L 09/16/2015 - 22:10:37: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1518 -2938 64")
+L 09/16/2015 - 22:10:38: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" say_team "omg why cant anyone take care of the snipers?"
+L 09/16/2015 - 22:10:39: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1576 2896 64")
+L 09/16/2015 - 22:10:42: "Vipa ringme<556><[U:1:144403197]><Blue>" say "!rep our soldier"
+L 09/16/2015 - 22:10:42: "Console<0><Console><Console>" say "TF2Center: sub vote: BLUE SOLDIER (1/4) [brulée]"
+L 09/16/2015 - 22:10:44: "do the nasty<571><[U:1:84584561]><Blue>" say "!rep our soldier"
+L 09/16/2015 - 22:10:44: "Console<0><Console><Console>" say "TF2Center: sub vote: BLUE SOLDIER (2/4) [brulée]"
+L 09/16/2015 - 22:11:42: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Middle Point") (numcappers "2") (player1 "fil VcN.<3><[U:1:169066091]><Blue>") (position1 "324 -100 480") (player2 "Nato<7><[U:1:119239842]><Blue>") (position2 "88 -49 487")
+L 09/16/2015 - 22:11:43: "contrast<9><[U:1:91622419]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "crusaders_crossbow" (attacker_position "753 2264 545") (victim_position "2233 2361 576")
+L 09/16/2015 - 22:11:43: "Bobanook<4><[U:1:76371662]><Blue>" triggered "kill assist" against "G0ld Dust  :><14><[U:1:90650106]><Red>" (assister_position "1850 2163 768") (attacker_position "753 2264 545") (victim_position "2233 2361 576")
+L 09/16/2015 - 22:10:48: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2361 1380 128")
+L 09/16/2015 - 22:10:49: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-2424 -957 128")
+L 09/16/2015 - 22:10:49: "g.<568><[U:1:21138944]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "loose_cannon_explosion") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-1870 270 237")
+L 09/16/2015 - 22:10:49: "jmomo<575><[U:1:14838639]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (assist "1") (assister_position "-1597 499 164") (attacker_position "-1870 270 237")
+L 09/16/2015 - 22:10:49: "g.<568><[U:1:21138944]><Red>" triggered "medic_death" against "Bruh...#1<567><[U:1:211486742]><Blue>" (healing "202") (ubercharge "0")
+L 09/16/2015 - 22:10:49: "g.<568><[U:1:21138944]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "loose_cannon" (attacker_position "-1870 270 237") (victim_position "-2493 -629 256")
+L 09/16/2015 - 22:10:49: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "Bruh...#1<567><[U:1:211486742]><Blue>" (assister_position "-1597 499 164") (attacker_position "-1870 270 237") (victim_position "-2493 -629 256")
+L 09/16/2015 - 22:10:49: "g.<568><[U:1:21138944]><Red>" triggered "domination" against "Bruh...#1<567><[U:1:211486742]><Blue>"
+L 09/16/2015 - 22:10:50: "bl<555><[U:1:39816373]><Blue>" say "!rep our soldier"
+L 09/16/2015 - 22:10:50: "Console<0><Console><Console>" say "TF2Center: sub vote: BLUE SOLDIER (3/4) [brulée]"
+L 09/16/2015 - 22:10:51: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "player_builtobject" (object "OBJ_DISPENSER") (position "-2388 1040 127")
+L 09/16/2015 - 22:11:50: "trucks<12><[U:1:83656662]><Red>" killed "D1 BOUND<8><[U:1:118621338]><Blue>" with "scattergun" (attacker_position "2452 1054 576") (victim_position "2341 1120 687")
+L 09/16/2015 - 22:11:50: "trucks<12><[U:1:83656662]><Red>" triggered "revenge" against "D1 BOUND<8><[U:1:118621338]><Blue>"
+L 09/16/2015 - 22:10:56: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "minigun" (attacker_position "-1233 556 217") (victim_position "-1153 836 156")
+L 09/16/2015 - 22:10:56: "a pyro main<570><[U:1:132632907]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-1212 554 218") (attacker_position "-1233 556 217") (victim_position "-1153 836 156")
+L 09/16/2015 - 22:10:56: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-2344 -1063 133")
+L 09/16/2015 - 22:11:54: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Red Mini-Spire") (numcappers "4") (player1 "fil VcN.<3><[U:1:169066091]><Blue>") (position1 "1619 2178 775") (player2 "Bobanook<4><[U:1:76371662]><Blue>") (position2 "1737 2219 775") (player3 "Nato<7><[U:1:119239842]><Blue>") (position3 "1682 2126 775") (player4 "contrast<9><[U:1:91622419]><Blue>") (position4 "1493 2179 768")
+L 09/16/2015 - 22:10:58: "Bruh...#1<567><[U:1:211486742]><Blue>" changed role to "soldier"
+L 09/16/2015 - 22:10:59: "jmomo<575><[U:1:14838639]><Red>" triggered "player_extinguished" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "tf_weapon_medigun" (attacker_position "-2282 1196 109") (victim_position "-1967 996 114")
+L 09/16/2015 - 22:11:00: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-723 848 391") (victim_position "-2266 -518 256")
+L 09/16/2015 - 22:11:00: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "kill assist" against "Rg Groove<562><[U:1:74497530]><Blue>" (assister_position "-1952 -81 256") (attacker_position "-723 848 391") (victim_position "-2266 -518 256")
+L 09/16/2015 - 22:11:03: "Console<0><Console><Console>" say "TF2Center: 10 seconds left before expiring sub vote: BLUE SOLDIER (3/4) [brulée]"
+L 09/16/2015 - 22:11:04: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2254 -382 256")
+L 09/16/2015 - 22:11:04: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "Vipa ringme<556><[U:1:144403197]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-713 831 391") (victim_position "-2260 -459 256")
+L 09/16/2015 - 22:11:04: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "tf_projectile_rocket") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-2156 -296 359")
+L 09/16/2015 - 22:11:05: "Console<0><Console><Console>" say "TF2Center: 10 seconds left before expiring sub vote: BLUE SOLDIER (3/4) [brulée]"
+L 09/16/2015 - 22:11:06: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "tf_projectile_rocket" (attacker_position "-2274 -89 256") (victim_position "-2519 -376 256")
+L 09/16/2015 - 22:11:09: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "3") (player1 "a pyro main<570><[U:1:132632907]><Red>") (position1 "-1490 -68 253") (player2 "Douchebag #learning sfm<572><[U:1:184493993]><Red>") (position2 "-1728 -122 226") (player3 "Poxie lfpSteelScout<573><[U:1:174902162]><Red>") (position3 "-1628 114 225")
+L 09/16/2015 - 22:11:11: "Console<0><Console><Console>" say "TF2Center: 10 seconds left before expiring sub vote: BLUE SOLDIER (3/4) [brulée]"
+L 09/16/2015 - 22:11:14: "Console<0><Console><Console>" say "[TF2Center]: Reporting BLUE SOLDIER: brulée"
+L 09/16/2015 - 22:12:11: "contrast<9><[U:1:91622419]><Blue>" triggered "chargedeployed"
+L 09/16/2015 - 22:12:13: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "1017") (ubercharge "0")
+L 09/16/2015 - 22:12:13: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "tf_projectile_pipe_remote" (attacker_position "3331 2100 744") (victim_position "3691 1962 576")
+L 09/16/2015 - 22:12:13: "contrast<9><[U:1:91622419]><Blue>" triggered "kill assist" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (assister_position "2928 2252 695") (attacker_position "3331 2100 744") (victim_position "3691 1962 576")
+L 09/16/2015 - 22:11:18: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-2225 19 256") (victim_position "-2510 -1193 127")
+L 09/16/2015 - 22:11:18: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "kill assist" against "「Tsukiko」<561><[U:1:111754095]><Blue>" (assister_position "-1886 -106 364") (attacker_position "-2225 19 256") (victim_position "-2510 -1193 127")
+L 09/16/2015 - 22:11:19: "do the nasty<571><[U:1:84584561]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "tf_projectile_pipe" (attacker_position "-2435 -740 179") (victim_position "-2134 -222 256")
+L 09/16/2015 - 22:11:19: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-2353 -686 248") (attacker_position "-2435 -740 179") (victim_position "-2134 -222 256")
+L 09/16/2015 - 22:11:21: "Rg Groove<562><[U:1:74497530]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "minigun" (attacker_position "-2445 -739 175") (victim_position "-2167 -168 256")
+L 09/16/2015 - 22:11:21: "do the nasty<571><[U:1:84584561]><Blue>" triggered "kill assist" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" (assister_position "-2410 -890 129") (attacker_position "-2445 -739 175") (victim_position "-2167 -168 256")
+L 09/16/2015 - 22:11:21: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" disconnected (reason "FΣFΣᄂIPΣ timed out")
+L 09/16/2015 - 22:11:21: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "object_detonated" (object "OBJ_DISPENSER") (position "-2408 703 211")
+L 09/16/2015 - 22:11:21: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "object_detonated" (object "OBJ_SENTRYGUN") (position "-2408 703 211")
+L 09/16/2015 - 22:11:21: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Red>" triggered "object_detonated" (object "OBJ_TELEPORTER") (position "-2408 703 211")
+L 09/16/2015 - 22:11:21: "FΣFΣᄂIPΣ<576><[U:1:179506691]><Unassigned>" committed suicide with "world" (attacker_position "-2408 703 211")
+L 09/16/2015 - 22:12:20: "Nato<7><[U:1:119239842]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "tf_projectile_rocket" (attacker_position "2488 1347 701") (victim_position "2948 877 576")
+L 09/16/2015 - 22:12:21: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "world" (attacker_position "3258 1938 576") (victim_position "3345 1863 636")
+L 09/16/2015 - 22:12:21: "contrast<9><[U:1:91622419]><Blue>" triggered "kill assist" against "G0ld Dust  :><14><[U:1:90650106]><Red>" (assister_position "3393 1895 576") (attacker_position "3258 1938 576") (victim_position "3345 1863 636")
+L 09/16/2015 - 22:12:21: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "medic_death" against "contrast<9><[U:1:91622419]><Blue>" (healing "1492") (ubercharge "0")
+L 09/16/2015 - 22:12:21: "My gamesense is tingling<6><[U:1:106712702]><Red>" killed "contrast<9><[U:1:91622419]><Blue>" with "scattergun" (attacker_position "3282 1566 480") (victim_position "3393 1895 576")
+L 09/16/2015 - 22:12:21: "G0ld Dust  :><14><[U:1:90650106]><Red>" triggered "kill assist" against "contrast<9><[U:1:91622419]><Blue>" (assister_position "3345 1863 650") (attacker_position "3282 1566 480") (victim_position "3393 1895 576")
+L 09/16/2015 - 22:11:25: "Vipa ringme<556><[U:1:144403197]><Blue>" say "med if you don't go back to medic"
+L 09/16/2015 - 22:11:25: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-2176 381 256") (victim_position "-2323 -586 256")
+L 09/16/2015 - 22:11:25: "g.<568><[U:1:21138944]><Red>" triggered "kill assist" against "Rg Groove<562><[U:1:74497530]><Blue>" (assister_position "-1844 91 241") (attacker_position "-2176 381 256") (victim_position "-2323 -586 256")
+L 09/16/2015 - 22:12:23: "My gamesense is tingling<6><[U:1:106712702]><Red>" killed "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" with "scattergun" (attacker_position "3021 1727 549") (victim_position "3054 2189 632")
+L 09/16/2015 - 22:12:23: "G0ld Dust  :><14><[U:1:90650106]><Red>" triggered "kill assist" against "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" (assister_position "3345 1863 650") (attacker_position "3021 1727 549") (victim_position "3054 2189 632")
+L 09/16/2015 - 22:11:27: "g.<568><[U:1:21138944]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "battleaxe" (attacker_position "-2092 307 256") (victim_position "-2140 326 256")
+L 09/16/2015 - 22:11:27: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-2114 219 256") (attacker_position "-2092 307 256") (victim_position "-2140 326 256")
+L 09/16/2015 - 22:11:27: "g.<568><[U:1:21138944]><Red>" triggered "domination" against "do the nasty<571><[U:1:84584561]><Blue>"
+L 09/16/2015 - 22:11:27: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "milk_attack" against "Bruh...#1<567><[U:1:211486742]><Blue>" with "tf_weapon_jar" (attacker_position "-2226 -265 303") (victim_position "-2471 -1006 128")
+L 09/16/2015 - 22:11:28: "Vipa ringme<556><[U:1:144403197]><Blue>" say "we will rep you"
+L 09/16/2015 - 22:12:26: "G0ld Dust  :><14><[U:1:90650106]><Red>" say "lol"
+L 09/16/2015 - 22:11:29: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "tf_projectile_rocket" (attacker_position "-2570 -1070 128") (victim_position "-2339 -655 266")
+L 09/16/2015 - 22:11:29: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "kill assist" against "Bruh...#1<567><[U:1:211486742]><Blue>" (assister_position "-2394 -495 321") (attacker_position "-2570 -1070 128") (victim_position "-2339 -655 266")
+L 09/16/2015 - 22:11:30: "nx-<563><[U:1:290755]><Blue>" changed role to "medic"
+L 09/16/2015 - 22:12:27: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "scattergun" (attacker_position "3246 2001 576") (victim_position "3430 2200 576")
+L 09/16/2015 - 22:12:28: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Red Final Point") (numcappers "2") (player1 "Bobanook<4><[U:1:76371662]><Blue>") (position1 "3451 1343 583") (player2 "Nato<7><[U:1:119239842]><Blue>") (position2 "3483 1220 583")
+L 09/16/2015 - 22:12:28: World triggered "Round_Win" (winner "Blue")
+L 09/16/2015 - 22:12:28: World triggered "Round_Length" (seconds "89.79")
+L 09/16/2015 - 22:12:28: Team "Red" current score "0" with "6" players
+L 09/16/2015 - 22:12:28: Team "Blue" current score "2" with "6" players
+L 09/16/2015 - 22:12:29: "fil VcN.<3><[U:1:169066091]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "pistol_scout" (attacker_position "3184 1818 498") (victim_position "3278 1682 480")
+L 09/16/2015 - 22:12:29: "Bobanook<4><[U:1:76371662]><Blue>" triggered "kill assist" against "trucks<12><[U:1:83656662]><Red>" (assister_position "3608 1378 581") (attacker_position "3184 1818 498") (victim_position "3278 1682 480")
+L 09/16/2015 - 22:11:32: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "killedobject" (object "OBJ_TELEPORTER") (weapon "scattergun") (objectowner "Vipa ringme<556><[U:1:144403197]><Blue>") (attacker_position "-2506 -956 128")
+L 09/16/2015 - 22:12:32: "Nato<7><[U:1:119239842]><Blue>" committed suicide with "taunt_soldier" (attacker_position "3483 1220 583")
+L 09/16/2015 - 22:12:33: World triggered "Round_Start"
+L 09/16/2015 - 22:11:36: "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "ambassador" (attacker_position "-2247 -1752 128") (victim_position "-2337 -1686 128")
+L 09/16/2015 - 22:11:36: "bl<555><[U:1:39816373]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-628 -1366 119") (attacker_position "-2247 -1752 128") (victim_position "-2337 -1686 128")
+L 09/16/2015 - 22:11:38: "g.<568><[U:1:21138944]><Red>" killed "bl<555><[U:1:39816373]><Blue>" with "battleaxe" (attacker_position "-793 -1398 80") (victim_position "-886 -1413 140")
+L 09/16/2015 - 22:11:40: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "tf_projectile_rocket" (attacker_position "-2623 -1322 170") (victim_position "-2133 -1902 128")
+L 09/16/2015 - 22:11:46: "g.<568><[U:1:21138944]><Red>" killed "Vipa ringme<556><[U:1:144403197]><Blue>" with "battleaxe" (attacker_position "-560 -1180 380") (victim_position "-641 -1164 420")
+L 09/16/2015 - 22:11:49: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" say_team "papi destrulle las minis plx"
+L 09/16/2015 - 22:11:54: "do the nasty<571><[U:1:84584561]><Blue>" killed "P2501<578><[U:1:30755493]><Red>" with "tf_projectile_pipe" (attacker_position "-726 -911 386") (victim_position "-686 -959 384")
+L 09/16/2015 - 22:11:59: "Vipa ringme<556><[U:1:144403197]><Blue>" changed role to "scout"
+L 09/16/2015 - 22:12:56: "Bobanook<4><[U:1:76371662]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "tf_projectile_rocket" (attacker_position "450 -453 471") (victim_position "907 781 598")
+L 09/16/2015 - 22:12:56: "fil VcN.<3><[U:1:169066091]><Blue>" triggered "kill assist" against "The Apex Predator<5><[U:1:90934638]><Red>" (assister_position "562 387 505") (attacker_position "450 -453 471") (victim_position "907 781 598")
+L 09/16/2015 - 22:12:00: "do the nasty<571><[U:1:84584561]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "tf_projectile_pipe" (attacker_position "-733 -1384 99") (victim_position "-1314 -1503 81")
+L 09/16/2015 - 22:12:00: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" (assister_position "-2232 -1386 129") (attacker_position "-733 -1384 99") (victim_position "-1314 -1503 81")
+L 09/16/2015 - 22:12:02: "nx-<563><[U:1:290755]><Blue>" triggered "player_extinguished" against "Rg Groove<562><[U:1:74497530]><Blue>" with "tf_weapon_medigun" (attacker_position "-2376 -1329 125") (victim_position "-2233 -1199 85")
+L 09/16/2015 - 22:13:00: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "scattergun" (attacker_position "-571 3 604") (victim_position "-572 -130 657")
+L 09/16/2015 - 22:13:00: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" triggered "kill assist" against "trucks<12><[U:1:83656662]><Red>" (assister_position "-691 -594 544") (attacker_position "-571 3 604") (victim_position "-572 -130 657")
+L 09/16/2015 - 22:12:06: "jmomo<575><[U:1:14838639]><Red>" triggered "chargedeployed"
+L 09/16/2015 - 22:13:03: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "scattergun" (attacker_position "-74 536 671") (victim_position "19 438 720")
+L 09/16/2015 - 22:13:03: "fil VcN.<3><[U:1:169066091]><Blue>" triggered "kill assist" against "Smesi<17><[U:1:98351880]><Red>" (assister_position "-628 -317 563") (attacker_position "-74 536 671") (victim_position "19 438 720")
+L 09/16/2015 - 22:12:07: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "player_extinguished" against "nx-<563><[U:1:290755]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-2460 -1353 128") (victim_position "-2437 -1542 128")
+L 09/16/2015 - 22:12:07: "Console<0><Console><Console>" say "[TF2Center]: Substitute is on their way for Lobby#522105 BLUE SOLDIER: they're taking it out on us"
+L 09/16/2015 - 22:12:07: "Rg Groove<562><[U:1:74497530]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "minigun" (attacker_position "-2349 -1055 131") (victim_position "-2160 -1258 40")
+L 09/16/2015 - 22:12:07: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-2435 -1518 128") (attacker_position "-2349 -1055 131") (victim_position "-2160 -1258 40")
+L 09/16/2015 - 22:12:10: "g.<568><[U:1:21138944]><Red>" triggered "medic_death" against "nx-<563><[U:1:290755]><Blue>" (healing "760") (ubercharge "0")
+L 09/16/2015 - 22:12:10: "g.<568><[U:1:21138944]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "loose_cannon_impact" (attacker_position "-2424 -549 256") (victim_position "-2444 -1345 128")
+L 09/16/2015 - 22:12:10: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "nx-<563><[U:1:290755]><Blue>" (assister_position "-2207 -491 256") (attacker_position "-2424 -549 256") (victim_position "-2444 -1345 128")
+L 09/16/2015 - 22:13:07: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "tf_projectile_pipe_remote" (attacker_position "632 1111 639") (victim_position "779 1604 552")
+L 09/16/2015 - 22:13:07: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "My gamesense is tingling<6><[U:1:106712702]><Red>" (assister_position "760 1251 624") (attacker_position "632 1111 639") (victim_position "779 1604 552")
+L 09/16/2015 - 22:12:11: "Bruh...#1<567><[U:1:211486742]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "tf_projectile_rocket" (attacker_position "-1448 -521 191") (victim_position "-1372 -201 331")
+L 09/16/2015 - 22:12:11: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "minigun" (attacker_position "-1208 -134 232") (victim_position "-1516 -622 227")
+L 09/16/2015 - 22:12:11: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "kill assist" against "Bruh...#1<567><[U:1:211486742]><Blue>" (assister_position "-1372 -201 345") (attacker_position "-1208 -134 232") (victim_position "-1516 -622 227")
+L 09/16/2015 - 22:12:16: "Rg Groove<562><[U:1:74497530]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "minigun" (attacker_position "-2323 -605 256") (victim_position "-1976 -188 256")
+L 09/16/2015 - 22:12:16: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "kill assist" against "ngc.Traxx'<565><[U:1:87192239]><Red>" (assister_position "-2389 -757 194") (attacker_position "-2323 -605 256") (victim_position "-1976 -188 256")
+L 09/16/2015 - 22:13:16: "Smesi<17><[U:1:98351880]><Red>" say "0 points lft plat"
+L 09/16/2015 - 22:12:20: "Rg Groove<562><[U:1:74497530]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "minigun" (attacker_position "-2123 -306 256") (victim_position "-1693 -110 226")
+L 09/16/2015 - 22:13:18: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "687") (ubercharge "0")
+L 09/16/2015 - 22:13:18: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "scattergun" (attacker_position "1755 1917 446") (victim_position "1939 2140 470")
+L 09/16/2015 - 22:13:18: "fil VcN.<3><[U:1:169066091]><Blue>" triggered "kill assist" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (assister_position "1659 1921 448") (attacker_position "1755 1917 446") (victim_position "1939 2140 470")
+L 09/16/2015 - 22:13:21: "G0ld Dust  :><14><[U:1:90650106]><Red>" killed "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" with "tf_projectile_rocket" (attacker_position "2306 1253 654") (victim_position "2236 1448 745")
+L 09/16/2015 - 22:12:26: "do the nasty<571><[U:1:84584561]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "2234") (ubercharge "0")
+L 09/16/2015 - 22:12:26: "do the nasty<571><[U:1:84584561]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "battleaxe" (attacker_position "-1260 762 165") (victim_position "-1224 791 158")
+L 09/16/2015 - 22:13:23: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "world" (attacker_position "2340 1536 704") (victim_position "2180 1493 704")
+L 09/16/2015 - 22:12:29: "Rg Groove<562><[U:1:74497530]><Blue>" killed "P2501<578><[U:1:30755493]><Red>" with "minigun" (attacker_position "-1666 74 225") (victim_position "-2082 358 256")
+L 09/16/2015 - 22:12:29: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "P2501<578><[U:1:30755493]><Red>" (assister_position "-2257 178 256") (attacker_position "-1666 74 225") (victim_position "-2082 358 256")
+L 09/16/2015 - 22:13:27: "trucks<12><[U:1:83656662]><Red>" killed "D1 BOUND<8><[U:1:118621338]><Blue>" with "scattergun" (attacker_position "2395 790 576") (victim_position "2577 695 576")
+L 09/16/2015 - 22:12:32: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "Rg Groove<562><[U:1:74497530]><Blue>") (position1 "-1500 113 228") (player2 "do the nasty<571><[U:1:84584561]><Blue>") (position2 "-1673 63 225")
+L 09/16/2015 - 22:13:29: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Middle Point") (numcappers "1") (player1 "Bobanook<4><[U:1:76371662]><Blue>") (position1 "110 -86 480")
+L 09/16/2015 - 22:13:37: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Red Mini-Spire") (numcappers "2") (player1 "fil VcN.<3><[U:1:169066091]><Blue>") (position1 "1785 2258 768") (player2 "contrast<9><[U:1:91622419]><Blue>") (position2 "1790 2203 768")
+L 09/16/2015 - 22:12:41: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "scattergun" (attacker_position "-1698 702 118") (victim_position "-1812 849 69")
+L 09/16/2015 - 22:12:41: "bl<555><[U:1:39816373]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-1587 49 231") (attacker_position "-1698 702 118") (victim_position "-1812 849 69")
+L 09/16/2015 - 22:12:41: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "domination" against "a pyro main<570><[U:1:132632907]><Red>"
+L 09/16/2015 - 22:12:41: "nx-<563><[U:1:290755]><Blue>" triggered "player_extinguished" against "do the nasty<571><[U:1:84584561]><Blue>" with "tf_weapon_medigun" (attacker_position "-1500 70 231") (victim_position "-1824 37 237")
+L 09/16/2015 - 22:12:44: "Rg Groove<562><[U:1:74497530]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "minigun" (attacker_position "-1729 1116 320") (victim_position "-1734 1052 293")
+L 09/16/2015 - 22:12:48: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-1683 1868 0") (victim_position "-1580 1949 0")
+L 09/16/2015 - 22:12:50: "jmomo<575><[U:1:14838639]><Red>" triggered "player_extinguished" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "tf_weapon_medigun" (attacker_position "-655 1052 384") (victim_position "-641 1119 383")
+L 09/16/2015 - 22:12:51: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "scattergun" (attacker_position "-1116 1463 15") (victim_position "-984 1565 251")
+L 09/16/2015 - 22:12:51: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "kill assist" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" (assister_position "-2291 515 256") (attacker_position "-1116 1463 15") (victim_position "-984 1565 251")
+L 09/16/2015 - 22:12:51: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "domination" against "ngc.PapiYisus<558><[U:1:101812897]><Red>"
+L 09/16/2015 - 22:12:54: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "minigun" (attacker_position "-923 674 305") (victim_position "-1294 524 227")
+L 09/16/2015 - 22:12:56: "「Tsukiko」<561><[U:1:111754095]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "degreaser" (attacker_position "-1175 784 161") (victim_position "-1076 746 170")
+L 09/16/2015 - 22:12:56: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "kill assist" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" (assister_position "-1370 753 206") (attacker_position "-1175 784 161") (victim_position "-1076 746 170")
+L 09/16/2015 - 22:12:57: "g.<568><[U:1:21138944]><Red>" killed "Vipa ringme<556><[U:1:144403197]><Blue>" with "battleaxe" (attacker_position "-372 1411 208") (victim_position "-360 1301 262")
+L 09/16/2015 - 22:13:00: "ngc.Traxx'<565><[U:1:87192239]><Red>" say_team "please mini sentry man"
+L 09/16/2015 - 22:13:05: "ngc.Traxx'<565><[U:1:87192239]><Red>" say_team "scout is fucking me"
+L 09/16/2015 - 22:14:05: "trucks<12><[U:1:83656662]><Red>" killed "fil VcN.<3><[U:1:169066091]><Blue>" with "scattergun" (attacker_position "2876 1599 576") (victim_position "2761 1475 576")
+L 09/16/2015 - 22:13:09: "nx-<563><[U:1:290755]><Blue>" triggered "player_extinguished" against "do the nasty<571><[U:1:84584561]><Blue>" with "tf_weapon_medigun" (attacker_position "-1099 614 203") (victim_position "-1031 709 179")
+L 09/16/2015 - 22:13:09: "nx-<563><[U:1:290755]><Blue>" triggered "player_extinguished" against "do the nasty<571><[U:1:84584561]><Blue>" with "tf_weapon_medigun" (attacker_position "-1119 587 209") (victim_position "-1053 697 182")
+L 09/16/2015 - 22:13:10: "P2501<578><[U:1:30755493]><Red>" triggered "medic_death" against "nx-<563><[U:1:290755]><Blue>" (healing "756") (ubercharge "0")
+L 09/16/2015 - 22:13:10: "P2501<578><[U:1:30755493]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "knife" (customkill "backstab") (attacker_position "-1209 434 246") (victim_position "-1156 446 245")
+L 09/16/2015 - 22:13:10: "a pyro main<570><[U:1:132632907]><Red>" triggered "kill assist" against "nx-<563><[U:1:290755]><Blue>" (assister_position "-1280 614 204") (attacker_position "-1209 434 246") (victim_position "-1156 446 245")
+L 09/16/2015 - 22:13:10: "a pyro main<570><[U:1:132632907]><Red>" triggered "revenge" against "nx-<563><[U:1:290755]><Blue>" (assist "1")
+L 09/16/2015 - 22:13:11: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "player_extinguished" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "tf_weapon_jar" (attacker_position "-475 1323 129") (victim_position "-475 1323 129")
+L 09/16/2015 - 22:14:08: "contrast<9><[U:1:91622419]><Blue>" triggered "chargedeployed"
+L 09/17/2015 - 05:16:35: Your server needs to be restarted in order to receive the latest update.
+L 09/16/2015 - 22:13:13: "P2501<578><[U:1:30755493]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "knife" (attacker_position "-1026 606 205") (victim_position "-1079 584 209")
+L 09/16/2015 - 22:13:13: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "kill assist" against "Bruh...#1<567><[U:1:211486742]><Blue>" (assister_position "-577 1754 136") (attacker_position "-1026 606 205") (victim_position "-1079 584 209")
+L 09/16/2015 - 22:13:15: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "bl<555><[U:1:39816373]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-2475 1624 128") (victim_position "-2551 931 128")
+L 09/16/2015 - 22:14:11: "Bobanook<4><[U:1:76371662]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "tf_projectile_rocket" (attacker_position "2885 2239 704") (victim_position "3170 1951 576")
+L 09/16/2015 - 22:14:11: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "G0ld Dust  :><14><[U:1:90650106]><Red>" (assister_position "2990 2096 702") (attacker_position "2885 2239 704") (victim_position "3170 1951 576")
+L 09/16/2015 - 22:13:15: "a pyro main<570><[U:1:132632907]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "degreaser" (attacker_position "-1228 28 228") (victim_position "-1078 12 240")
+L 09/16/2015 - 22:13:15: "they're taking it out on us<579><[U:1:82361246]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:14:12: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "395") (ubercharge "0")
+L 09/16/2015 - 22:14:12: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "tf_projectile_pipe_remote" (attacker_position "3757 1705 594") (victim_position "3785 1163 576")
+L 09/16/2015 - 22:14:12: "contrast<9><[U:1:91622419]><Blue>" triggered "kill assist" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (assister_position "3615 2090 576") (attacker_position "3757 1705 594") (victim_position "3785 1163 576")
+L 09/16/2015 - 22:13:15: "they're taking it out on us<579><[U:1:82361246]><>" STEAM USERID validated
+L 09/16/2015 - 22:13:17: "P2501<578><[U:1:30755493]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "letranger" (attacker_position "-1288 689 185") (victim_position "-1032 10 240")
+L 09/16/2015 - 22:13:17: "a pyro main<570><[U:1:132632907]><Red>" triggered "kill assist" against "「Tsukiko」<561><[U:1:111754095]><Blue>" (assister_position "-1410 28 228") (attacker_position "-1288 689 185") (victim_position "-1032 10 240")
+L 09/16/2015 - 22:14:17: "Bobanook<4><[U:1:76371662]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "tf_projectile_rocket" (attacker_position "3509 1340 583") (victim_position "3035 1617 539")
+L 09/16/2015 - 22:14:17: "contrast<9><[U:1:91622419]><Blue>" triggered "kill assist" against "My gamesense is tingling<6><[U:1:106712702]><Red>" (assister_position "3597 1266 583") (attacker_position "3509 1340 583") (victim_position "3035 1617 539")
+L 09/16/2015 - 22:14:17: "Smesi<17><[U:1:98351880]><Red>" triggered "captureblocked" (cp "4") (cpname "Red Final Point") (position "3384 1195 681")
+L 09/16/2015 - 22:13:21: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "smg" (attacker_position "-2437 909 128") (victim_position "-2429 1110 127")
+L 09/16/2015 - 22:13:21: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "kill assist" against "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" (assister_position "-2658 1193 132") (attacker_position "-2437 909 128") (victim_position "-2429 1110 127")
+L 09/16/2015 - 22:14:19: "trucks<12><[U:1:83656662]><Red>" triggered "medic_death" against "contrast<9><[U:1:91622419]><Blue>" (healing "1813") (ubercharge "0")
+L 09/16/2015 - 22:14:19: "trucks<12><[U:1:83656662]><Red>" killed "contrast<9><[U:1:91622419]><Blue>" with "scattergun" (attacker_position "3308 1575 626") (victim_position "3681 1495 625")
+L 09/16/2015 - 22:14:19: "Smesi<17><[U:1:98351880]><Red>" triggered "kill assist" against "contrast<9><[U:1:91622419]><Blue>" (assister_position "3701 1176 609") (attacker_position "3308 1575 626") (victim_position "3681 1495 625")
+L 09/16/2015 - 22:14:19: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Red Final Point") (numcappers "1") (player1 "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>") (position1 "3405 1254 576")
+L 09/16/2015 - 22:14:19: World triggered "Round_Win" (winner "Blue")
+L 09/16/2015 - 22:14:19: World triggered "Round_Length" (seconds "106.35")
+L 09/16/2015 - 22:14:19: Team "Red" current score "0" with "6" players
+L 09/16/2015 - 22:14:19: Team "Blue" current score "3" with "6" players
+L 09/16/2015 - 22:14:20: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "paintrain" (attacker_position "3658 1147 576") (victim_position "3706 1164 620")
+L 09/16/2015 - 22:14:20: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "Smesi<17><[U:1:98351880]><Red>" (assister_position "3259 1754 480") (attacker_position "3658 1147 576") (victim_position "3706 1164 620")
+L 09/16/2015 - 22:14:20: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "domination" against "Smesi<17><[U:1:98351880]><Red>" (assist "1")
+L 09/16/2015 - 22:14:21: "Nato<7><[U:1:119239842]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "shotgun_soldier" (attacker_position "3170 1472 480") (victim_position "3198 1301 491")
+L 09/16/2015 - 22:14:21: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "trucks<12><[U:1:83656662]><Red>" (assister_position "3078 1700 585") (attacker_position "3170 1472 480") (victim_position "3198 1301 491")
+L 09/16/2015 - 22:13:27: "Console<0><Console><Console>" say "[TF2Center]: Reporting RED ENGINEER: FΣFΣᄂIPΣ"
+L 09/16/2015 - 22:13:27: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "a pyro main<570><[U:1:132632907]><Red>") (position1 "-1522 65 231") (player2 "Douchebag #learning sfm<572><[U:1:184493993]><Red>") (position2 "-1464 118 227")
+L 09/16/2015 - 22:14:24: World triggered "Round_Start"
+L 09/16/2015 - 22:13:36: "Rg Groove<562><[U:1:74497530]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "world" (attacker_position "-2363 -1318 123") (victim_position "-1212 -2633 27")
+L 09/16/2015 - 22:13:36: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "domination" against "ngc.PapiYisus<558><[U:1:101812897]><Red>"
+L 09/16/2015 - 22:13:42: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "scattergun" (attacker_position "-2408 -685 221") (victim_position "-2443 -578 256")
+L 09/16/2015 - 22:13:42: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-2602 -1267 128") (attacker_position "-2408 -685 221") (victim_position "-2443 -578 256")
+L 09/16/2015 - 22:13:42: "P2501<578><[U:1:30755493]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "knife" (customkill "backstab") (attacker_position "-2555 -1285 128") (victim_position "-2600 -1265 128")
+L 09/16/2015 - 22:13:42: "a pyro main<570><[U:1:132632907]><Red>" triggered "kill assist" against "Rg Groove<562><[U:1:74497530]><Blue>" (assister_position "-2404 -563 324") (attacker_position "-2555 -1285 128") (victim_position "-2600 -1265 128")
+L 09/16/2015 - 22:13:45: "do the nasty<571><[U:1:84584561]><Blue>" killed "P2501<578><[U:1:30755493]><Red>" with "tf_projectile_pipe" (attacker_position "-2394 -1024 127") (victim_position "-2705 -664 261")
+L 09/16/2015 - 22:13:45: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "kill assist" against "P2501<578><[U:1:30755493]><Red>" (assister_position "-2239 -1122 111") (attacker_position "-2394 -1024 127") (victim_position "-2705 -664 261")
+L 09/16/2015 - 22:13:47: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "milk_attack" against "do the nasty<571><[U:1:84584561]><Blue>" with "tf_weapon_jar" (attacker_position "-1748 -1176 320") (victim_position "-2423 -1055 127")
+L 09/16/2015 - 22:13:47: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "milk_attack" against "「Tsukiko」<561><[U:1:111754095]><Blue>" with "tf_weapon_jar" (attacker_position "-1748 -1176 320") (victim_position "-2499 -933 128")
+L 09/16/2015 - 22:13:48: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "scattergun" (attacker_position "-1729 -677 124") (victim_position "-1697 -511 165")
+L 09/16/2015 - 22:14:46: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "loose_cannon" (attacker_position "565 -706 520") (victim_position "834 575 600")
+L 09/16/2015 - 22:14:46: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "loose_cannon" (attacker_position "392 -792 537") (victim_position "904 494 597")
+L 09/16/2015 - 22:13:52: "bl<555><[U:1:39816373]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "awper_hand" (customkill "headshot") (attacker_position "-2390 -1527 128") (victim_position "-1588 -1277 64")
+L 09/16/2015 - 22:13:52: "jmomo<575><[U:1:14838639]><Red>" triggered "chargedeployed"
+L 09/16/2015 - 22:13:52: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "scattergun" (attacker_position "-1951 -362 256") (victim_position "-2037 -307 292")
+L 09/16/2015 - 22:13:52: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "kill assist" against "Douchebag #learning sfm<572><[U:1:184493993]><Red>" (assister_position "-2353 -977 127") (attacker_position "-1951 -362 256") (victim_position "-2037 -307 292")
+L 09/16/2015 - 22:13:52: "Bruh...#1<567><[U:1:211486742]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "1589") (ubercharge "0")
+L 09/16/2015 - 22:13:52: "Bruh...#1<567><[U:1:211486742]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "tf_projectile_rocket" (attacker_position "-2331 -467 287") (victim_position "-2109 -406 256")
+L 09/16/2015 - 22:13:52: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "jmomo<575><[U:1:14838639]><Red>" (assister_position "-1954 -333 256") (attacker_position "-2331 -467 287") (victim_position "-2109 -406 256")
+L 09/16/2015 - 22:14:50: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "loose_cannon" (attacker_position "-81 -697 521") (victim_position "-49 549 775")
+L 09/16/2015 - 22:14:54: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "scattergun" (attacker_position "-437 644 605") (victim_position "-296 411 508")
+L 09/16/2015 - 22:14:55: "Nato<7><[U:1:119239842]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "tf_projectile_rocket" (attacker_position "-14 543 668") (victim_position "213 609 475")
+L 09/16/2015 - 22:14:55: "fil VcN.<3><[U:1:169066091]><Blue>" triggered "kill assist" against "G0ld Dust  :><14><[U:1:90650106]><Red>" (assister_position "331 906 525") (attacker_position "-14 543 668") (victim_position "213 609 475")
+L 09/16/2015 - 22:13:58: "ngc.Traxx'<565><[U:1:87192239]><Red>" say_team "please anyone kill ths scout"
+L 09/16/2015 - 22:14:00: "bl<555><[U:1:39816373]><Blue>" killed "g.<568><[U:1:21138944]><Red>" with "awper_hand" (attacker_position "-1471 -636 146") (victim_position "-1162 65 268")
+L 09/16/2015 - 22:14:00: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "kill assist" against "g.<568><[U:1:21138944]><Red>" (assister_position "-1154 -585 209") (attacker_position "-1471 -636 146") (victim_position "-1162 65 268")
+L 09/16/2015 - 22:14:03: "ngc.Traxx'<565><[U:1:87192239]><Red>" say_team "please =/"
+L 09/16/2015 - 22:14:06: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "「Tsukiko」<561><[U:1:111754095]><Blue>") (position1 "-1498 113 267") (player2 "do the nasty<571><[U:1:84584561]><Blue>") (position2 "-1565 104 235")
+L 09/16/2015 - 22:15:07: "My gamesense is tingling<6><[U:1:106712702]><Red>" changed role to "engineer"
+L 09/16/2015 - 22:15:10: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Middle Point") (numcappers "1") (player1 "fil VcN.<3><[U:1:169066091]><Blue>") (position1 "112 -16 484")
+L 09/16/2015 - 22:15:11: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "tf_projectile_pipe_remote" (attacker_position "3684 967 536") (victim_position "4195 1718 576")
+L 09/16/2015 - 22:14:14: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "scattergun" (attacker_position "-2420 1219 124") (victim_position "-2416 1380 128")
+L 09/16/2015 - 22:15:12: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "scattergun" (attacker_position "3349 1195 566") (victim_position "4148 644 592")
+L 09/16/2015 - 22:15:12: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" triggered "kill assist" against "The Apex Predator<5><[U:1:90934638]><Red>" (assister_position "3532 685 554") (attacker_position "3349 1195 566") (victim_position "4148 644 592")
+L 09/16/2015 - 22:14:19: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "player_extinguished" against "Vipa ringme<556><[U:1:144403197]><Blue>" with "tf_weapon_flamethrower" (attacker_position "-2471 1042 127") (victim_position "-2426 1210 193")
+L 09/16/2015 - 22:15:16: "My gamesense is tingling<6><[U:1:106712702]><Red>" changed role to "scout"
+L 09/16/2015 - 22:14:21: "Console<0><Console><Console>" say "[TF2Center]: Substitute is on their way for Lobby#522105 RED ENGINEER: Pastenfelipe"
+L 09/16/2015 - 22:14:21: "nx-<563><[U:1:290755]><Blue>" triggered "chargedeployed"
+L 09/16/2015 - 22:14:21: "g.<568><[U:1:21138944]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "loose_cannon" (attacker_position "-2238 1749 128") (victim_position "-2546 707 146")
+L 09/16/2015 - 22:14:21: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "kill assist" against "「Tsukiko」<561><[U:1:111754095]><Blue>" (assister_position "-2296 1689 128") (attacker_position "-2238 1749 128") (victim_position "-2546 707 146")
+L 09/16/2015 - 22:14:21: "g.<568><[U:1:21138944]><Red>" triggered "domination" against "「Tsukiko」<561><[U:1:111754095]><Blue>"
+L 09/16/2015 - 22:15:18: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Red Mini-Spire") (numcappers "3") (player1 "Bobanook<4><[U:1:76371662]><Blue>") (position1 "1526 2160 809") (player2 "Nato<7><[U:1:119239842]><Blue>") (position2 "1691 2225 775") (player3 "contrast<9><[U:1:91622419]><Blue>") (position3 "1637 2264 775")
+L 09/16/2015 - 22:14:22: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "Vipa ringme<556><[U:1:144403197]><Blue>" with "tf_projectile_rocket" (attacker_position "-1883 953 69") (victim_position "-1872 831 76")
+L 09/16/2015 - 22:14:22: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "kill assist" against "Vipa ringme<556><[U:1:144403197]><Blue>" (assister_position "-2242 1705 128") (attacker_position "-1883 953 69") (victim_position "-1872 831 76")
+L 09/16/2015 - 22:14:22: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "revenge" against "Vipa ringme<556><[U:1:144403197]><Blue>"
+L 09/16/2015 - 22:14:22: "ngc.PapiYisus<558><[U:1:101812897]><Red>" committed suicide with "tf_projectile_rocket" (attacker_position "-1883 953 69")
+L 09/16/2015 - 22:14:25: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "smg" (attacker_position "-1164 2109 1") (victim_position "-1066 1881 0")
+L 09/16/2015 - 22:14:25: "a pyro main<570><[U:1:132632907]><Red>" triggered "kill assist" against "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" (assister_position "-2083 2010 128") (attacker_position "-1164 2109 1") (victim_position "-1066 1881 0")
+L 09/16/2015 - 22:15:26: "fil VcN.<3><[U:1:169066091]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "scattergun" (attacker_position "3230 1893 573") (victim_position "3228 1484 596")
+L 09/16/2015 - 22:15:26: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" triggered "kill assist" against "My gamesense is tingling<6><[U:1:106712702]><Red>" (assister_position "2152 1379 472") (attacker_position "3230 1893 573") (victim_position "3228 1484 596")
+L 09/16/2015 - 22:15:28: "Nato<7><[U:1:119239842]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "830") (ubercharge "0")
+L 09/16/2015 - 22:15:28: "Nato<7><[U:1:119239842]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "tf_projectile_rocket" (attacker_position "3796 1547 576") (victim_position "4199 1857 592")
+L 09/16/2015 - 22:14:32: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "milk_attack" against "bl<555><[U:1:39816373]><Blue>" with "tf_weapon_jar" (attacker_position "-2267 278 256") (victim_position "-2275 425 260")
+L 09/16/2015 - 22:15:30: "fil VcN.<3><[U:1:169066091]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "scattergun" (attacker_position "3097 1089 611") (victim_position "3374 1274 632")
+L 09/16/2015 - 22:15:30: "Nato<7><[U:1:119239842]><Blue>" triggered "kill assist" against "G0ld Dust  :><14><[U:1:90650106]><Red>" (assister_position "3579 1463 576") (attacker_position "3097 1089 611") (victim_position "3374 1274 632")
+L 09/16/2015 - 22:15:32: "contrast<9><[U:1:91622419]><Blue>" triggered "chargedeployed"
+L 09/16/2015 - 22:14:36: "they're taking it out on us<579><[U:1:82361246]><>" entered the game
+L 09/16/2015 - 22:15:32: "fil VcN.<3><[U:1:169066091]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "scattergun" (attacker_position "3462 1303 583") (victim_position "3815 1457 616")
+L 09/16/2015 - 22:15:32: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "Smesi<17><[U:1:98351880]><Red>" (assister_position "3298 1245 541") (attacker_position "3462 1303 583") (victim_position "3815 1457 616")
+L 09/16/2015 - 22:15:33: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Red Final Point") (numcappers "4") (player1 "fil VcN.<3><[U:1:169066091]><Blue>") (position1 "3429 1356 576") (player2 "Bobanook<4><[U:1:76371662]><Blue>") (position2 "3591 1321 583") (player3 "Nato<7><[U:1:119239842]><Blue>") (position3 "3443 1315 583") (player4 "D1 BOUND<8><[U:1:118621338]><Blue>") (position4 "3436 1302 583")
+L 09/16/2015 - 22:15:33: World triggered "Round_Win" (winner "Blue")
+L 09/16/2015 - 22:15:33: World triggered "Round_Length" (seconds "69.39")
+L 09/16/2015 - 22:15:33: Team "Red" current score "0" with "6" players
+L 09/16/2015 - 22:15:33: Team "Blue" current score "4" with "6" players
+L 09/16/2015 - 22:15:36: "Bobanook<4><[U:1:76371662]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "tf_projectile_rocket" (attacker_position "3842 1716 576") (victim_position "3473 1813 609")
+L 09/16/2015 - 22:14:40: "P2501<578><[U:1:30755493]><Red>" killed "bl<555><[U:1:39816373]><Blue>" with "letranger" (attacker_position "-2565 972 128") (victim_position "-2710 801 133")
+L 09/16/2015 - 22:14:40: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "kill assist" against "bl<555><[U:1:39816373]><Blue>" (assister_position "-2541 1102 160") (attacker_position "-2565 972 128") (victim_position "-2710 801 133")
+L 09/16/2015 - 22:14:40: "do the nasty<571><[U:1:84584561]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "tf_projectile_pipe" (attacker_position "-1266 1544 -3") (victim_position "-1024 1355 36")
+L 09/16/2015 - 22:15:38: "Bobanook<4><[U:1:76371662]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "tf_projectile_rocket" (attacker_position "4331 1602 576") (victim_position "4277 1441 576")
+L 09/16/2015 - 22:15:38: "Bobanook<4><[U:1:76371662]><Blue>" triggered "domination" against "The Apex Predator<5><[U:1:90934638]><Red>"
+L 09/16/2015 - 22:15:38: World triggered "Round_Start"
+L 09/16/2015 - 22:14:46: "Rg Groove<562><[U:1:74497530]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "minigun" (attacker_position "-2341 1074 135") (victim_position "-2253 1458 126")
+L 09/16/2015 - 22:14:46: "nx-<563><[U:1:290755]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-2351 967 127") (attacker_position "-2341 1074 135") (victim_position "-2253 1458 126")
+L 09/16/2015 - 22:14:46: "nx-<563><[U:1:290755]><Blue>" triggered "domination" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assist "1")
+L 09/16/2015 - 22:15:43: "Smesi<17><[U:1:98351880]><Red>" changed role to "heavyweapons"
+L 09/16/2015 - 22:14:46: "do the nasty<571><[U:1:84584561]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1288 184 236")
+L 09/16/2015 - 22:14:49: "Bruh...#1<567><[U:1:211486742]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "tf_projectile_rocket" (attacker_position "-2444 1624 128") (victim_position "-2098 1899 128")
+L 09/16/2015 - 22:14:49: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "a pyro main<570><[U:1:132632907]><Red>" (assister_position "-2496 975 219") (attacker_position "-2444 1624 128") (victim_position "-2098 1899 128")
+L 09/16/2015 - 22:14:50: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "P2501<578><[U:1:30755493]><Red>") (position1 "-1415 -4 227") (player2 "Douchebag #learning sfm<572><[U:1:184493993]><Red>") (position2 "-1363 36 229")
+L 09/16/2015 - 22:14:53: "nx-<563><[U:1:290755]><Blue>" triggered "player_extinguished" against "Bruh...#1<567><[U:1:211486742]><Blue>" with "tf_weapon_medigun" (attacker_position "-2266 997 131") (victim_position "-2183 1184 73")
+L 09/16/2015 - 22:14:54: "g.<568><[U:1:21138944]><Red>" triggered "medic_death" against "nx-<563><[U:1:290755]><Blue>" (healing "2003") (ubercharge "0")
+L 09/16/2015 - 22:14:54: "g.<568><[U:1:21138944]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "battleaxe" (attacker_position "-2248 1096 116") (victim_position "-2212 1120 100")
+L 09/16/2015 - 22:14:56: "Rg Groove<562><[U:1:74497530]><Blue>" killed "g.<568><[U:1:21138944]><Red>" with "minigun" (attacker_position "-2223 1046 111") (victim_position "-2417 925 176")
+L 09/16/2015 - 22:14:59: "they're taking it out on us<579><[U:1:82361246]><Unassigned>" joined team "Blue"
+L 09/16/2015 - 22:14:59: "do the nasty<571><[U:1:84584561]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "battleaxe" (attacker_position "-1399 -157 229") (victim_position "-1319 -177 251")
+L 09/16/2015 - 22:15:00: "jmomo<575><[U:1:14838639]><Red>" triggered "chargedeployed"
+L 09/16/2015 - 22:15:00: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "P2501<578><[U:1:30755493]><Red>" with "scattergun" (attacker_position "-2211 -251 256") (victim_position "-2156 -196 256")
+L 09/16/2015 - 22:15:00: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "domination" against "P2501<578><[U:1:30755493]><Red>"
+L 09/16/2015 - 22:15:01: "they're taking it out on us<579><[U:1:82361246]><Blue>" changed role to "engineer"
+L 09/16/2015 - 22:15:04: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "tf_projectile_rocket" (attacker_position "-1266 -340 282") (victim_position "-1867 -621 140")
+L 09/16/2015 - 22:15:04: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "「Tsukiko」<561><[U:1:111754095]><Blue>" (assister_position "-1199 -107 245") (attacker_position "-1266 -340 282") (victim_position "-1867 -621 140")
+L 09/16/2015 - 22:16:05: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "scattergun" (attacker_position "2 1027 512") (victim_position "-71 1245 512")
+L 09/16/2015 - 22:16:05: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "domination" against "My gamesense is tingling<6><[U:1:106712702]><Red>"
+L 09/16/2015 - 22:16:05: "Nato<7><[U:1:119239842]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "shotgun_soldier" (attacker_position "157 -201 743") (victim_position "590 525 550")
+L 09/16/2015 - 22:16:09: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "scattergun" (attacker_position "827 1721 518") (victim_position "834 1640 540")
+L 09/16/2015 - 22:16:09: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "domination" against "G0ld Dust  :><14><[U:1:90650106]><Red>"
+L 09/16/2015 - 22:15:13: "they're taking it out on us<579><[U:1:82361246]><Blue>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1448 -2935 64")
+L 09/16/2015 - 22:15:14: "Pastenfelipe<580><[U:1:111212474]><>" connected, address "0.0.0.0:27005"
+L 09/16/2015 - 22:15:15: "Pastenfelipe<580><[U:1:111212474]><>" STEAM USERID validated
+L 09/16/2015 - 22:16:11: "fil VcN.<3><[U:1:169066091]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "scattergun" (attacker_position "687 1178 618") (victim_position "749 1302 624")
+L 09/16/2015 - 22:15:16: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "Vipa ringme<556><[U:1:144403197]><Blue>" with "tf_projectile_rocket" (attacker_position "-1536 205 278") (victim_position "-1103 -247 313")
+L 09/16/2015 - 22:15:16: "Rg Groove<562><[U:1:74497530]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "minigun" (attacker_position "-1803 260 223") (victim_position "-1536 212 284")
+L 09/16/2015 - 22:15:16: "do the nasty<571><[U:1:84584561]><Blue>" triggered "kill assist" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" (assister_position "-1950 -275 256") (attacker_position "-1803 260 223") (victim_position "-1536 212 284")
+L 09/16/2015 - 22:15:18: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "scattergun" (attacker_position "-2436 888 129") (victim_position "-2422 841 134")
+L 09/16/2015 - 22:15:19: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" say "damn it i was calling the phone"
+L 09/16/2015 - 22:16:16: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "tf_projectile_pipe_remote" (attacker_position "838 1898 768") (victim_position "882 2260 518")
+L 09/16/2015 - 22:16:16: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "Smesi<17><[U:1:98351880]><Red>" (assister_position "831 2234 649") (attacker_position "838 1898 768") (victim_position "882 2260 518")
+L 09/16/2015 - 22:15:22: "a pyro main<570><[U:1:132632907]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1635 215 237")
+L 09/16/2015 - 22:15:22: "nx-<563><[U:1:290755]><Blue>" triggered "player_extinguished" against "do the nasty<571><[U:1:84584561]><Blue>" with "tf_weapon_medigun" (attacker_position "-1244 -202 230") (victim_position "-1270 138 236")
+L 09/16/2015 - 22:15:22: "nx-<563><[U:1:290755]><Blue>" triggered "player_extinguished" against "do the nasty<571><[U:1:84584561]><Blue>" with "tf_weapon_medigun" (attacker_position "-1187 -190 235") (victim_position "-1269 183 236")
+L 09/16/2015 - 22:15:22: "nx-<563><[U:1:290755]><Blue>" triggered "player_extinguished" against "do the nasty<571><[U:1:84584561]><Blue>" with "tf_weapon_medigun" (attacker_position "-1143 -134 237") (victim_position "-1229 246 231")
+L 09/16/2015 - 22:15:26: "they're taking it out on us<579><[U:1:82361246]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-2203 -443 256")
+L 09/16/2015 - 22:15:26: "nx-<563><[U:1:290755]><Blue>" triggered "player_extinguished" against "Rg Groove<562><[U:1:74497530]><Blue>" with "tf_weapon_medigun" (attacker_position "-1222 -222 231") (victim_position "-1477 207 236")
+L 09/16/2015 - 22:15:26: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1482 214 333")
+L 09/16/2015 - 22:15:26: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" say ";-;"
+L 09/16/2015 - 22:15:26: "ngc.Traxx'<565><[U:1:87192239]><Red>" triggered "medic_death" against "nx-<563><[U:1:290755]><Blue>" (healing "294") (ubercharge "0")
+L 09/16/2015 - 22:15:26: "ngc.Traxx'<565><[U:1:87192239]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "awper_hand" (customkill "headshot") (attacker_position "-1301 1140 384") (victim_position "-1285 -240 234")
+L 09/16/2015 - 22:15:26: "g.<568><[U:1:21138944]><Red>" triggered "kill assist" against "nx-<563><[U:1:290755]><Blue>" (assister_position "-1255 1005 187") (attacker_position "-1301 1140 384") (victim_position "-1285 -240 234")
+L 09/16/2015 - 22:15:26: "g.<568><[U:1:21138944]><Red>" triggered "domination" against "nx-<563><[U:1:290755]><Blue>" (assist "1")
+L 09/16/2015 - 22:15:26: "ngc.Traxx'<565><[U:1:87192239]><Red>" triggered "revenge" against "nx-<563><[U:1:290755]><Blue>"
+L 09/16/2015 - 22:16:24: "My gamesense is tingling<6><[U:1:106712702]><Red>" changed role to "engineer"
+L 09/16/2015 - 22:15:28: "Rg Groove<562><[U:1:74497530]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "minigun" (attacker_position "-1464 195 246") (victim_position "-1302 175 236")
+L 09/16/2015 - 22:15:28: "a pyro main<570><[U:1:132632907]><Red>" killed "do the nasty<571><[U:1:84584561]><Blue>" with "degreaser" (attacker_position "-1287 200 304") (victim_position "-1626 136 224")
+L 09/16/2015 - 22:15:28: "g.<568><[U:1:21138944]><Red>" triggered "kill assist" against "do the nasty<571><[U:1:84584561]><Blue>" (assister_position "-1047 744 170") (attacker_position "-1287 200 304") (victim_position "-1626 136 224")
+L 09/16/2015 - 22:15:29: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "1") (player1 "Rg Groove<562><[U:1:74497530]><Blue>") (position1 "-1711 204 261")
+L 09/16/2015 - 22:16:25: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "786") (ubercharge "0")
+L 09/16/2015 - 22:16:25: "D1 BOUND<8><[U:1:118621338]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "scattergun" (attacker_position "3470 2215 576") (victim_position "3351 2318 576")
+L 09/16/2015 - 22:15:29: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "scattergun" (attacker_position "-1628 295 316") (victim_position "-1708 173 236")
+L 09/16/2015 - 22:15:29: "a pyro main<570><[U:1:132632907]><Red>" triggered "kill assist" against "Rg Groove<562><[U:1:74497530]><Blue>" (assister_position "-1287 200 304") (attacker_position "-1628 295 316") (victim_position "-1708 173 236")
+L 09/16/2015 - 22:15:35: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "minigun") (objectowner "they're taking it out on us<579><[U:1:82361246]><Blue>") (attacker_position "-2299 551 256")
+L 09/16/2015 - 22:16:32: "fil VcN.<3><[U:1:169066091]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "scattergun" (attacker_position "3542 2138 576") (victim_position "3783 2153 651")
+L 09/16/2015 - 22:15:35: "「Tsukiko」<561><[U:1:111754095]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "flaregun" (attacker_position "-1673 -123 225") (victim_position "-2029 841 233")
+L 09/16/2015 - 22:15:35: "they're taking it out on us<579><[U:1:82361246]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-2208 203 256") (attacker_position "-1673 -123 225") (victim_position "-2029 841 233")
+L 09/16/2015 - 22:16:32: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "3857 770 576")
+L 09/16/2015 - 22:16:32: Team "Blue" triggered "pointcaptured" (cp "2") (cpname "Middle Point") (numcappers "1") (player1 "Bobanook<4><[U:1:76371662]><Blue>") (position1 "189 -78 480")
+L 09/16/2015 - 22:15:37: "P2501<578><[U:1:30755493]><Red>" killed "bl<555><[U:1:39816373]><Blue>" with "knife" (attacker_position "-2008 -894 83") (victim_position "-1966 -850 83")
+L 09/16/2015 - 22:15:38: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" killed "[TCTS]GeneticCardinal<574><[U:1:85849953]><Blue>" with "minigun" (attacker_position "-2363 583 256") (victim_position "-2274 627 256")
+L 09/16/2015 - 22:15:42: "they're taking it out on us<579><[U:1:82361246]><Blue>" killed "g.<568><[U:1:21138944]><Red>" with "shotgun_primary" (attacker_position "-1312 -270 284") (victim_position "-1133 25 244")
+L 09/16/2015 - 22:15:42: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "kill assist" against "g.<568><[U:1:21138944]><Red>" (assister_position "-1843 -876 66") (attacker_position "-1312 -270 284") (victim_position "-1133 25 244")
+L 09/16/2015 - 22:15:42: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "revenge" against "g.<568><[U:1:21138944]><Red>" (assist "1")
+L 09/16/2015 - 22:15:42: "g.<568><[U:1:21138944]><Red>" killed "they're taking it out on us<579><[U:1:82361246]><Blue>" with "loose_cannon_impact" (attacker_position "-1149 60 250") (victim_position "-1310 -273 279")
+L 09/16/2015 - 22:16:40: "The Apex Predator<5><[U:1:90934638]><Red>" killed "D1 BOUND<8><[U:1:118621338]><Blue>" with "tf_projectile_pipe" (attacker_position "3865 1818 576") (victim_position "3274 2144 592")
+L 09/16/2015 - 22:16:40: "G0ld Dust  :><14><[U:1:90650106]><Red>" triggered "kill assist" against "D1 BOUND<8><[U:1:118621338]><Blue>" (assister_position "3710 1911 576") (attacker_position "3865 1818 576") (victim_position "3274 2144 592")
+L 09/16/2015 - 22:16:40: "G0ld Dust  :><14><[U:1:90650106]><Red>" triggered "revenge" against "D1 BOUND<8><[U:1:118621338]><Blue>" (assist "1")
+L 09/16/2015 - 22:15:44: "g.<568><[U:1:21138944]><Red>" say "cya"
+L 09/16/2015 - 22:16:41: Team "Blue" triggered "pointcaptured" (cp "3") (cpname "Red Mini-Spire") (numcappers "4") (player1 "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>") (position1 "1687 2182 775") (player2 "fil VcN.<3><[U:1:169066091]><Blue>") (position2 "1818 2176 768") (player3 "Nato<7><[U:1:119239842]><Blue>") (position3 "1645 2146 775") (player4 "contrast<9><[U:1:91622419]><Blue>") (position4 "1565 2285 768")
+L 09/16/2015 - 22:15:52: "Vipa ringme<556><[U:1:144403197]><Blue>" triggered "captureblocked" (cp "0") (cpname "#koth_viaduct_cap") (position "-1382 -197 403")
+L 09/16/2015 - 22:16:51: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "player_carryobject" (object "OBJ_SENTRYGUN") (position "3858 714 576")
+L 09/16/2015 - 22:15:54: "a pyro main<570><[U:1:132632907]><Red>" killed "Vipa ringme<556><[U:1:144403197]><Blue>" with "degreaser" (attacker_position "-1798 244 225") (victim_position "-1784 377 199")
+L 09/16/2015 - 22:15:54: "a pyro main<570><[U:1:132632907]><Red>" triggered "revenge" against "Vipa ringme<556><[U:1:144403197]><Blue>"
+L 09/16/2015 - 22:16:51: "contrast<9><[U:1:91622419]><Blue>" triggered "chargedeployed"
+L 09/16/2015 - 22:15:56: Team "Red" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "4") (player1 "ngc.PapiYisus<558><[U:1:101812897]><Red>") (position1 "-1463 81 231") (player2 "ngc.Traxx'<565><[U:1:87192239]><Red>") (position2 "-1545 200 236") (player3 "a pyro main<570><[U:1:132632907]><Red>") (position3 "-1682 126 225") (player4 "Douchebag #learning sfm<572><[U:1:184493993]><Red>") (position4 "-1578 14 231")
+L 09/16/2015 - 22:15:57: "Pastenfelipe<580><[U:1:111212474]><>" entered the game
+L 09/16/2015 - 22:15:58: "do the nasty<571><[U:1:84584561]><Blue>" killed "P2501<578><[U:1:30755493]><Red>" with "battleaxe" (attacker_position "-2255 -1130 116") (victim_position "-2304 -1093 135")
+L 09/16/2015 - 22:16:54: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "player_dropobject" (object "OBJ_SENTRYGUN") (position "3038 1177 480")
+L 09/16/2015 - 22:16:54: "My gamesense is tingling<6><[U:1:106712702]><Red>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "3038 1177 480")
+L 09/16/2015 - 22:16:55: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "loose_cannon" (attacker_position "3219 2183 606") (victim_position "3975 1834 606")
+L 09/16/2015 - 22:16:55: "contrast<9><[U:1:91622419]><Blue>" triggered "kill assist" against "The Apex Predator<5><[U:1:90934638]><Red>" (assister_position "3026 2034 576") (attacker_position "3219 2183 606") (victim_position "3975 1834 606")
+L 09/16/2015 - 22:16:55: "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>" triggered "domination" against "The Apex Predator<5><[U:1:90934638]><Red>"
+L 09/16/2015 - 22:16:57: "fil VcN.<3><[U:1:169066091]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "scattergun" (attacker_position "3055 1093 480") (victim_position "3034 1205 480")
+L 09/16/2015 - 22:16:02: "Bruh...#1<567><[U:1:211486742]><Blue>" killed "Douchebag #learning sfm<572><[U:1:184493993]><Red>" with "tf_projectile_rocket" (attacker_position "-2055 423 326") (victim_position "-1914 288 256")
+L 09/16/2015 - 22:16:58: "fil VcN.<3><[U:1:169066091]><Blue>" triggered "killedobject" (object "OBJ_SENTRYGUN") (weapon "scattergun") (objectowner "My gamesense is tingling<6><[U:1:106712702]><Red>") (attacker_position "3057 1098 480")
+L 09/16/2015 - 22:16:03: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "Bruh...#1<567><[U:1:211486742]><Blue>" with "tf_projectile_rocket" (attacker_position "-1847 63 280") (victim_position "-2054 256 292")
+L 09/16/2015 - 22:16:03: "Douchebag #learning sfm<572><[U:1:184493993]><Red>" triggered "kill assist" against "Bruh...#1<567><[U:1:211486742]><Blue>" (assister_position "-1914 288 331") (attacker_position "-1847 63 280") (victim_position "-2054 256 292")
+L 09/16/2015 - 22:17:01: "Bobanook<4><[U:1:76371662]><Blue>" killed "G0ld Dust  :><14><[U:1:90650106]><Red>" with "tf_projectile_rocket" (attacker_position "2795 684 576") (victim_position "3424 964 480")
+L 09/16/2015 - 22:17:01: "Nato<7><[U:1:119239842]><Blue>" triggered "kill assist" against "G0ld Dust  :><14><[U:1:90650106]><Red>" (assister_position "3098 1586 504") (attacker_position "2795 684 576") (victim_position "3424 964 480")
+L 09/16/2015 - 22:17:01: "trucks<12><[U:1:83656662]><Red>" killed "fil VcN.<3><[U:1:169066091]><Blue>" with "scattergun" (attacker_position "3121 1378 480") (victim_position "2953 755 576")
+L 09/16/2015 - 22:17:01: "G0ld Dust  :><14><[U:1:90650106]><Red>" triggered "kill assist" against "fil VcN.<3><[U:1:169066091]><Blue>" (assister_position "3424 964 494") (attacker_position "3121 1378 480") (victim_position "2953 755 576")
+L 09/16/2015 - 22:16:07: "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" triggered "milk_attack" against "nx-<563><[U:1:290755]><Blue>" with "tf_weapon_jar" (attacker_position "-2259 -325 256") (victim_position "-2718 -785 135")
+L 09/16/2015 - 22:16:09: "do the nasty<571><[U:1:84584561]><Blue>" killed "a pyro main<570><[U:1:132632907]><Red>" with "tf_projectile_pipe" (attacker_position "-1755 -437 207") (victim_position "-1567 -149 225")
+L 09/16/2015 - 22:16:10: "jmomo<575><[U:1:14838639]><Red>" triggered "chargedeployed"
+L 09/16/2015 - 22:17:08: "My gamesense is tingling<6><[U:1:106712702]><Red>" changed role to "scout"
+L 09/16/2015 - 22:16:13: "do the nasty<571><[U:1:84584561]><Blue>" killed "ngc.Traxx'<565><[U:1:87192239]><Red>" with "tf_projectile_pipe" (attacker_position "-1314 38 236") (victim_position "-1124 348 253")
+L 09/16/2015 - 22:16:13: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "Rg Groove<562><[U:1:74497530]><Blue>" with "tf_projectile_rocket" (attacker_position "-1628 -409 269") (victim_position "-1786 -581 149")
+L 09/16/2015 - 22:16:13: "jmomo<575><[U:1:14838639]><Red>" triggered "kill assist" against "Rg Groove<562><[U:1:74497530]><Blue>" (assister_position "-1643 -18 230") (attacker_position "-1628 -409 269") (victim_position "-1786 -581 149")
+L 09/16/2015 - 22:16:13: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "revenge" against "Rg Groove<562><[U:1:74497530]><Blue>"
+L 09/16/2015 - 22:16:13: "jmomo<575><[U:1:14838639]><Red>" triggered "revenge" against "Rg Groove<562><[U:1:74497530]><Blue>" (assist "1")
+L 09/16/2015 - 22:16:14: "jmomo<575><[U:1:14838639]><Red>" triggered "player_extinguished" against "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "tf_weapon_medigun" (attacker_position "-1578 -84 231") (victim_position "-1649 -397 210")
+L 09/16/2015 - 22:16:14: "they're taking it out on us<579><[U:1:82361246]><Blue>" triggered "player_builtobject" (object "OBJ_SENTRYGUN") (position "-1182 -353 251")
+L 09/16/2015 - 22:17:10: "Nato<7><[U:1:119239842]><Blue>" killed "trucks<12><[U:1:83656662]><Red>" with "tf_projectile_rocket" (attacker_position "3041 1881 561") (victim_position "3349 2063 611")
+L 09/16/2015 - 22:17:10: "Nato<7><[U:1:119239842]><Blue>" triggered "domination" against "trucks<12><[U:1:83656662]><Red>"
+L 09/16/2015 - 22:16:14: "do the nasty<571><[U:1:84584561]><Blue>" triggered "medic_death" against "jmomo<575><[U:1:14838639]><Red>" (healing "2054") (ubercharge "0")
+L 09/16/2015 - 22:16:14: "do the nasty<571><[U:1:84584561]><Blue>" killed "jmomo<575><[U:1:14838639]><Red>" with "tf_projectile_pipe" (attacker_position "-1462 -159 231") (victim_position "-1545 -152 225")
+L 09/16/2015 - 22:16:14: "Rg Groove<562><[U:1:74497530]><Blue>" triggered "kill assist" against "jmomo<575><[U:1:14838639]><Red>" (assister_position "-1786 -581 224") (attacker_position "-1462 -159 231") (victim_position "-1545 -152 225")
+L 09/16/2015 - 22:16:15: "「Tsukiko」<561><[U:1:111754095]><Blue>" killed "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" with "flaregun" (attacker_position "-2386 -512 256") (victim_position "-1400 -167 511")
+L 09/16/2015 - 22:16:15: "do the nasty<571><[U:1:84584561]><Blue>" triggered "kill assist" against "Poxie lfpSteelScout<573><[U:1:174902162]><Red>" (assister_position "-1428 -78 229") (attacker_position "-2386 -512 256") (victim_position "-1400 -167 511")
+L 09/16/2015 - 22:16:16: World triggered "Round_Overtime"
+L 09/16/2015 - 22:16:17: "ngc.PapiYisus<558><[U:1:101812897]><Red>" triggered "medic_death" against "nx-<563><[U:1:290755]><Blue>" (healing "425") (ubercharge "0")
+L 09/16/2015 - 22:16:17: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "nx-<563><[U:1:290755]><Blue>" with "tf_projectile_rocket" (attacker_position "-1311 -726 191") (victim_position "-1149 -580 210")
+L 09/16/2015 - 22:16:17: "Pastenfelipe<580><[U:1:111212474]><Unassigned>" joined team "Red"
+L 09/16/2015 - 22:17:14: "Nato<7><[U:1:119239842]><Blue>" triggered "medic_death" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (healing "413") (ubercharge "0")
+L 09/16/2015 - 22:17:14: "Nato<7><[U:1:119239842]><Blue>" killed "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" with "tf_projectile_rocket" (attacker_position "3517 2078 612") (victim_position "3931 580 576")
+L 09/16/2015 - 22:17:14: "Bobanook<4><[U:1:76371662]><Blue>" triggered "kill assist" against "<<CG>> zombiedestroyer4587<11><[U:1:104251646]><Red>" (assister_position "3627 488 624") (attacker_position "3517 2078 612") (victim_position "3931 580 576")
+L 09/16/2015 - 22:16:20: "Pastenfelipe<580><[U:1:111212474]><Red>" changed role to "engineer"
+L 09/16/2015 - 22:17:16: "Bobanook<4><[U:1:76371662]><Blue>" killed "Smesi<17><[U:1:98351880]><Red>" with "tf_projectile_rocket" (attacker_position "3746 566 607") (victim_position "3993 894 576")
+L 09/16/2015 - 22:17:16: "D1 BOUND<8><[U:1:118621338]><Blue>" triggered "kill assist" against "Smesi<17><[U:1:98351880]><Red>" (assister_position "3674 1058 684") (attacker_position "3746 566 607") (victim_position "3993 894 576")
+L 09/16/2015 - 22:17:18: Team "Blue" triggered "pointcaptured" (cp "4") (cpname "Red Final Point") (numcappers "3") (player1 "CHINK LOOKIN ASS NIGGA -_-<10><[U:1:90137716]><Blue>") (position1 "3672 1127 681") (player2 "Nato<7><[U:1:119239842]><Blue>") (position2 "3608 1242 583") (player3 "contrast<9><[U:1:91622419]><Blue>") (position3 "3557 1261 583")
+L 09/16/2015 - 22:17:18: World triggered "Round_Win" (winner "Blue")
+L 09/16/2015 - 22:17:18: World triggered "Round_Length" (seconds "99.63")
+L 09/16/2015 - 22:17:18: Team "Red" current score "0" with "6" players
+L 09/16/2015 - 22:17:18: Team "Blue" current score "5" with "6" players
+L 09/16/2015 - 22:16:22: "Pastenfelipe<580><[U:1:111212474]><Red>" triggered "player_builtobject" (object "OBJ_TELEPORTER") (position "-1459 2927 64")
+L 09/16/2015 - 22:17:19: "G0ld Dust  :><14><[U:1:90650106]><Red>" say "gg"
+L 09/16/2015 - 22:16:24: Team "Blue" triggered "pointcaptured" (cp "0") (cpname "#koth_viaduct_cap") (numcappers "2") (player1 "「Tsukiko」<561><[U:1:111754095]><Blue>") (position1 "-1339 -114 236") (player2 "do the nasty<571><[U:1:84584561]><Blue>") (position2 "-1400 -92 229")
+L 09/16/2015 - 22:16:24: "ngc.PapiYisus<558><[U:1:101812897]><Red>" killed "「Tsukiko」<561><[U:1:111754095]><Blue>" with "tf_projectile_rocket" (attacker_position "-1005 -528 229") (victim_position "-1333 -110 236")
+L 09/16/2015 - 22:17:21: "Nato<7><[U:1:119239842]><Blue>" say "gg"
+L 09/16/2015 - 22:17:21: "Bobanook<4><[U:1:76371662]><Blue>" killed "The Apex Predator<5><[U:1:90934638]><Red>" with "tf_projectile_rocket" (attacker_position "4443 1061 576") (victim_position "4864 1344 576")
+L 09/16/2015 - 22:16:25: "「Tsukiko」<561><[U:1:111754095]><Blue>" killed "ngc.PapiYisus<558><[U:1:101812897]><Red>" with "world" (attacker_position "-1333 -110 304") (victim_position "-1062 -540 215")
+L 09/16/2015 - 22:16:25: "「Tsukiko」<561><[U:1:111754095]><Blue>" triggered "revenge" against "ngc.PapiYisus<558><[U:1:101812897]><Red>"
+L 09/16/2015 - 22:16:26: "Vipa ringme<556><[U:1:144403197]><Blue>" killed "g.<568><[U:1:21138944]><Red>" with "scattergun" (attacker_position "-1210 958 160") (victim_position "-1027 1035 193")
+L 09/16/2015 - 22:17:22: "Smesi<17><[U:1:98351880]><Red>" say "200 pings boyysssss"
+L 09/16/2015 - 22:17:22: "trucks<12><[U:1:83656662]><Red>" say "gg"
+L 09/16/2015 - 22:17:23: "Bobanook<4><[U:1:76371662]><Blue>" killed "My gamesense is tingling<6><[U:1:106712702]><Red>" with "tf_projectile_rocket" (attacker_position "4425 1253 576") (victim_position "4634 1364 665")
+L 09/16/2015 - 22:17:23: World triggered "Game_Over" reason "Reached Win Limit"
+L 09/16/2015 - 22:17:23: Team "Red" final score "0" with "6" players
+L 09/16/2015 - 22:17:23: Team "Blue" final score "5" with "6" players
+L 09/16/2015 - 22:17:23: Team "BLUE" triggered "Intermission_Win_Limit"

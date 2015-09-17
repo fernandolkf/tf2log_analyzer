@@ -1,0 +1,14 @@
+﻿update killevent ks set roundTime = "time"(ks.date) - "time"(minTime.date)
+
+
+
+FROM
+
+(select min(date) as date, logfile  from killevent group by logfile) as minTime
+
+
+where ks.logfile = minTime.logfile 
+
+select "time"(date) from killevent
+
+select date from killevent
