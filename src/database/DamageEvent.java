@@ -122,7 +122,7 @@ public class DamageEvent {
 		SimpleDateFormat dt = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss");
 		
 		String sql = "INSERT INTO damageevent (logfile, line, activePlayer, passivePlayer, eventDescription, " +
-				"weapon, date, damage, roundtime  ) VALUES ( ";
+				"weapon, date, damage, id_logfile, roundtime  ) VALUES ( ";
 		
 		sql = sql+"\'"+logfile+"\'"+",";
 		sql = sql+"\'"+line.replace("\'", "")+"\'"+",";
@@ -132,6 +132,7 @@ public class DamageEvent {
 		sql = sql+"\'"+weapon+"\'"+",";
 		sql = sql+"\'"+dt.format(timestamp)+"\'"+",";
 		sql = sql+damage+",";
+		sql = sql+"\'"+logfile.replace("log_", "").replace(".log", "")+"\'"+",";
 		sql = sql+"interval '1 second' *"+roundTime;
 		
 		sql = sql+")";
@@ -143,7 +144,7 @@ public class DamageEvent {
 	
 	public String getTableSQL(){
 		String sql = "INSERT INTO damageevent (logfile, line, activePlayer, passivePlayer, eventDescription, " +
-				"weapon, date, damage, roundtime   ) VALUES ";
+				"weapon, date, damage, id_logfile, roundtime   ) VALUES ";
 		return sql;
 	}
 	
@@ -161,6 +162,7 @@ public class DamageEvent {
 		sql = sql+"\'"+weapon+"\'"+",";
 		sql = sql+"\'"+dt.format(timestamp)+"\'"+",";
 		sql = sql+damage+",";
+		sql = sql+"\'"+logfile.replace("log_", "").replace(".log", "")+"\'"+",";
 		sql = sql+"interval '1 second' *"+roundTime;
 		
 		sql = sql+")";

@@ -50,6 +50,14 @@ public class FileParser {
 	
 	public void parseFile(File file){
 		
+		if(file.length() < 50000){
+			System.out.println("Log "+file.getName()+ " too small "+file.length());
+			return;
+		}
+		
+		if(file.getName().contains("~")){
+			return;
+		}
 		
 		String line = "";
 		KillEvent killEvent= new KillEvent();
@@ -58,12 +66,14 @@ public class FileParser {
 		boolean hasDamage = false;
 		try (BufferedReader br = new BufferedReader(new FileReader(file))) {	    
 			String id = file.getName().replace("log_", "").replace(".log", "");
-			
 			ResultSet rs = pgc.getRs("SELECT id FROM matchlog WHERE id="+id);
 			if(rs.next()){
 				System.out.println("Log already on the database: "+file.getName());
 				return;
 			}
+			
+			
+			
 			String player="";
 			String actionString = "";
 			String targetString = "";
@@ -75,21 +85,53 @@ public class FileParser {
 			boolean startMatch = false;
 			
 			//jump to 3th line (map line)
+			String map = "Unknown";
+			String mode = "Unknown";
 			
-			while((line = br.readLine()) != null && !line.matches(".*Map.*")){
+			line = br.readLine(); 
+			
+		
+			
+			while(line != null && !line.matches(".*Map.*") && !line.matches(".*connected.*") && !line.matches(".*changed role.*") && !line.matches(".*Log file started.*")){
 				line = br.readLine();
+				//System.out.println(line);
 			}
 			
-			if(line == null){
-				System.out.println("End of file "+file.getName());
-				return;
+			//System.out.println(line);
+			
+			if(line.matches(".*Map.*")){
+				String[] split = line.replace("\"", "").replace(":", "").split(" ");
+				int k = 0;
+				while(k < split.length-1 && !split[k].toLowerCase().equals("map")){
+					k=k+1;
+					if(split[k].toLowerCase().equals("map")){
+						map = split[k+1];
+						line = br.readLine();	
+					}
+				}
+				
+				if(line.matches(".*GameType.*")){
+					split = line.replace("\"", "").replace(":", "").split(" ");
+					k = 0;
+					while(k < split.length-1 && !split[k].toLowerCase().equals("gametype")){
+						k=k+1;
+						if(split[k].toLowerCase().equals("gametype"))
+							mode = split[k+1];
+					}
+				}
+			
+				//jump to mode line
+							
+				//mode = line.replace("\"", "").split(" ")[7];
+			}else{
+				System.out.println("Log WITHOUT MAP "+file.getName());
+				
 			}
+					
 			
-			String map = line.replace("\"", "").split(" ")[7];
-			//jump to mode line
-			line = br.readLine();
+		
 			
-			String mode = line.replace("\"", "").split(" ")[7];
+			
 			String sql = "INSERT INTO matchlog (id, filename, map, mode) VALUES ("
 					+id+",'"+file.getName()+"','"+map+"','"+mode+"');";
 			
@@ -101,9 +143,14 @@ public class FileParser {
 			
 		    while ((line = br.readLine()) != null) {
 		    	
-		    	while(!line.startsWith("L") || line.matches(".*say.*")){
+		    	while((!line.startsWith("L") || line.matches(".*say.*"))){
 		    		line = br.readLine();
+		    		if(line==null){
+			    		return;
+			    	}
 		    	}
+		    	
+		    	
 		    	
 		    	Pattern datePattern = Pattern.compile("\\b[0-9]{2}/[0-9]{2}/[0-9]{4}\\b");
 		    	Pattern timePattern = Pattern.compile("\\b[0-9]{2}:[0-9]{2}:[0-9]{2}\\b");
@@ -122,11 +169,11 @@ public class FileParser {
 		    	Date date = dt.parse(dateString.concat((" ".concat(timeString))));
 		    	
 		    	if(line.matches(".*Round_Start.*")){
-		    		System.out.println("Round started at "+date);
+		    		//System.out.println("Round started at "+date);
 		    		startRound = date;
 		    		startMatch = true;
 		    	}else if(line.matches(".*Round_Win.*")){
-		    		System.out.println("Round ended at "+date);
+		    		//System.out.println("Round ended at "+date);
 		    		startMatch = false;
 		    	}
 		    	
@@ -181,12 +228,9 @@ public class FileParser {
 			    		
 			    		long[] locationAttack = new long[3];
 			    		long[] locationDeath = new long[3];
-			    		try{
-			    			locationAttack[0] = new Long(positionAttack.split(" ")[0]);
-			    		}catch(Exception e){
-			    			System.out.println("cant parser: "+line);
-			    		}
-			    		 
+			    		
+		    			locationAttack[0] = new Long(positionAttack.split(" ")[0]);
+			    				    		 
 			    		locationAttack[1] = new Long(positionAttack.split(" ")[1]);
 			    		locationAttack[2] = new Long(positionAttack.split(" ")[2]);
 			    		

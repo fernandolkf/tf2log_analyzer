@@ -123,7 +123,7 @@ public class KillEvent {
 		
 		String sql = "INSERT INTO killevent (logfile, line, activePlayer, passivePlayer, eventDescription, " +
 				"weapon, date, x_deathposition, y_deathposition, z_deathposition, point_death," +
-				"x_attackposition, y_attackposition, z_attackposition, point_attack, roundtime   ) VALUES ( ";
+				"x_attackposition, y_attackposition, z_attackposition, point_attack, id_logfile, roundtime   ) VALUES ( ";
 		
 		sql = sql+"\'"+logfile+"\'"+",";
 		sql = sql+"\'"+line.replace("\'", "")+"\'"+",";
@@ -140,6 +140,7 @@ public class KillEvent {
 		sql = sql+locationAttack[1]+",";
 		sql = sql+locationAttack[2]+",";
 		sql = sql+"ST_MAKEPOINT("+locationAttack[0]+","+locationAttack[1]+"),";
+		sql = sql+"\'"+logfile.replace("log_", "").replace(".log", "")+"\'"+",";
 		sql = sql+"interval '1 second' *"+roundTime;
 		
 		sql = sql+")";
@@ -153,7 +154,7 @@ public class KillEvent {
 	public String getTableSQL(){
 		String sql = "INSERT INTO killevent (logfile, line, activePlayer, passivePlayer, eventDescription, " +
 				"weapon, date, x_deathposition, y_deathposition, z_deathposition, point_death," +
-				"x_attackposition, y_attackposition, z_attackposition, point_attack, roundtime   ) VALUES  ";
+				"x_attackposition, y_attackposition, z_attackposition, point_attack, id_logfile, roundtime    ) VALUES  ";
 		return sql;
 	}
 	
@@ -178,7 +179,9 @@ public class KillEvent {
 		sql = sql+locationAttack[1]+",";
 		sql = sql+locationAttack[2]+",";
 		sql = sql+"ST_MAKEPOINT("+locationAttack[0]+","+locationAttack[1]+"),";
+		sql = sql+"\'"+logfile.replace("log_", "").replace(".log", "")+"\'"+",";
 		sql = sql+"interval '1 second' *"+roundTime;
+		
 		
 		sql = sql+")";
 		

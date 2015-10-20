@@ -27,6 +27,12 @@ public class Main {
 			fp.parseFile(file);
 		}
 		
+		/*folder = new File("/home/fernando/github/tf2log_analyzer/data/logs_old/");
+		for(File file : folder.listFiles()){
+			System.out.println("Adding log from file: "+file.getName());
+			fp.parseFile(file);
+		}*/
+		
 		//File file = new File("/home/fernando/github/tf2log_analyzer/data/logs/log_988034.log");
 		
 
